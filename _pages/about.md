@@ -19,7 +19,7 @@ I was also a visiting student at Johns Hopkins University in 2018, mentored by [
 
 I am interested in language representation, especially for long texts.
 I aim to represent the text in a structured manner rather than token-wise representation like vanilla Transformers.
-I also work on its applications, such as efficient transformers.
+I also work on its applications, such as efficient language models.
 
 In the past, I worked on other fields such as (ordered by reversed time):
 information extraction, prompting (for which I won the Best Short Paper award in NAACL 2021), time-series analysis, and data-to-text generation.
