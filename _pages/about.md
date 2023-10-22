@@ -26,14 +26,14 @@ information extraction, prompting (for which I won the Best Short Paper award in
 
 ## Walless
 
-I am more known as "hiaoxui", who developed [Walless(PKU)](https://wallesspku.com/blog/about/).
+I am more known as *hiaoxui*, who developed [Walless(PKU)](https://wallesspku.com/blog/about/).
 Walless is a platform that helps Chinese netizens to circumvent [Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall).
 For over 7 years, I have been developing and funding this non-profit project to help
 tens of thousands people to access the global internet without censorship.
 
 ## My name
 
-"Guang'hui" has 2 Chinese characters, pronounced like "kwang-huei".
-"Qin" is like "Chin".
+My name is 秦光辉 in Chinese.
+*Guang'hui* has 2 parts, pronounced like **kwang-huei**.
+*Qin* is like **Chin**.
 
-My Chinese name is "秦光辉".
