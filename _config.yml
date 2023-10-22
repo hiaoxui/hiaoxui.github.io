@@ -84,7 +84,7 @@ author:
   avatar           : "whyDoYouDownloadMyPhoto.jpg"
   bio              : "A PhD student in Natural Language Processing"
   location         : "Baltimore, Maryland, US"
-  employer         : "Johns Hopkins University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ke8JkLgAAAAJ"
   email            : "gqin2@jhu.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-2947-2311"
+  orcid            : "https://orcid.org/0000-0002-3009-8614"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -7,7 +7,7 @@ main:
       #url: /year-archive/
     
   - title: "CV"
-    url: https://gqin.me/files/cv.pdf
+    url: /files/cv.pdf
     
       #- title: "Guide"
       #url: /markdown/
