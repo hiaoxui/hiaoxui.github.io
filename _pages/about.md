@@ -22,7 +22,7 @@ I aim to represent the text in a structured manner rather than token-wise repres
 I also work on its applications, such as efficient language models.
 
 In the past, I worked on other fields such as (ordered by reversed time):
-information extraction, prompting (for which I won the Best Short Paper award in NAACL 2021), time-series analysis, and data-to-text generation.
+information extraction, prompting (for which I won the *Best Short Paper* award in NAACL 2021), time-series analysis, and data-to-text generation.
 
 ## Walless
 
@@ -34,6 +34,6 @@ tens of thousands people to access the global internet without censorship.
 ## My name
 
 My name is 秦光辉 in Chinese.
-*Guang'hui* has 2 parts, pronounced like **kwang-huei**.
+*Guang'hui* is pronounced like **kwang-huei**.
 *Qin* is like **Chin**.
 

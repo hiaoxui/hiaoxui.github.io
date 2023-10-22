@@ -1,0 +1,24 @@
+title: "Neural Datalog through Time: Informed Temporal Modeling via Logical Specification"
+priority: 10
+authors:
+  - Hongyuan Mei
+  - Guanghui Qin
+  - Minjie Xu
+  - Jason Eisner
+venue: ICML
+year: 2020
+url: "https://proceedings.mlr.press/v119/mei20a/mei20a.pdf"
+bib: '@InProceedings{pmlr-v119-mei20a,
+  title = 	 {Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification},
+  author =       {Mei, Hongyuan and Qin, Guanghui and Xu, Minjie and Eisner, Jason},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {6808--6819},
+  year = 	 {2020},
+  editor = 	 {III, Hal Daumé and Singh, Aarti},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v119/mei20a/mei20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v119/mei20a.html},
+}'

@@ -1,0 +1,20 @@
+title: "Nugget2D: Dynamic Contextual Compression for Scaling Decoder-only Language Models"
+priority: 9
+authors:
+  - Guanghui Qin
+  - Corby Rosset
+  - Ethan C Chau
+  - Nikhil Rao
+  - Benjamin Van Durme
+venue: "arXiv: 2310.02409"
+year: 2023
+url: "https://doi.org/10.48550/arXiv.2310.02409"
+bib: '@misc{qin2023nugget,
+      title={Nugget2D: Dynamic Contextual Compression for Scaling Decoder-only Language Models}, 
+      author={Guanghui Qin and Corby Rosset and Ethan C. Chau and Nikhil Rao and Benjamin Van Durme},
+      year={2023},
+      eprint={2310.02409},
+      archivePrefix={arXiv},
+      url={https://doi.org/10.48550/arXiv.2310.02409},
+      primaryClass={cs.CL}
+}'

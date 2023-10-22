@@ -1,0 +1,42 @@
+title: "Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction"
+authors:
+  - Mahsa Yarmohammadi
+  - Shijie Wu
+  - Marc Marone
+  - Haoran Xu
+  - Seth Ebner
+  - Guanghui Qin
+  - Yunmo Chen
+  - Jialiang Guo
+  - Craig Harman
+  - Kenon Murray
+  - Aaron Steven White
+  - Mark Dredze
+  - Benjamin Van Durme
+venue: EMNLP
+year: 2021
+url: "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149"
+bib: '@inproceedings{yarmohammadi-etal-2021-everything,
+    title = "Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction",
+    author = "Yarmohammadi, Mahsa  and
+      Wu, Shijie  and
+      Marone, Marc  and
+      Xu, Haoran  and
+      Ebner, Seth  and
+      Qin, Guanghui  and
+      Chen, Yunmo  and
+      Guo, Jialiang  and
+      Harman, Craig  and
+      Murray, Kenton  and
+      White, Aaron Steven  and
+      Dredze, Mark  and
+      Van Durme, Benjamin",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149",
+    doi = "10.18653/v1/2021.emnlp-main.149",
+    pages = "1950--1967",
+}'

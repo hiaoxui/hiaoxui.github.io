@@ -127,6 +127,7 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .idea
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
@@ -146,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - scripts
 keep_files:
   - .git
   - .svn

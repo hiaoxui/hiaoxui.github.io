@@ -1,0 +1,26 @@
+title: "CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models"
+authors:
+  - Abhinav Singh
+  - Patrick Xia
+  - Guanghui Qin
+  - Mahsa Yarmohammadi
+  - Benjamin Van Durme
+venue: Fourth Workshop on Structured Prediction for NLP
+year: 2020
+url: "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2"
+bib: '@inproceedings{singh-etal-2020-copynext,
+    title = "{C}opy{N}ext: Explicit Span Copying and Alignment in Sequence to Sequence Models",
+    author = "Singh, Abhinav  and
+      Xia, Patrick  and
+      Qin, Guanghui  and
+      Yarmohammadi, Mahsa  and
+      Van Durme, Benjamin",
+    booktitle = "Proceedings of the Fourth Workshop on Structured Prediction for NLP",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2",
+    doi = "10.18653/v1/2020.spnlp-1.2",
+    pages = "11--16",
+}'
