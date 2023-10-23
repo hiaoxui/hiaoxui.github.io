@@ -6,21 +6,19 @@ authors:
 venue: ICML
 year: 2019
 url: "https://proceedings.mlr.press/v97/mei19a/mei19a.pdf"
-bib: '
-@InProceedings{pmlr-v97-mei19a,
-  title = 	 {Imputing Missing Events in Continuous-Time Event Streams},
-  author =       {Mei, Hongyuan and Qin, Guanghui and Eisner, Jason},
-  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
-  pages = 	 {4475--4485},
-  year = 	 {2019},
-  editor = 	 {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
-  volume = 	 {97},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {09--15 Jun},
-  publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v97/mei19a/mei19a.pdf},
-  url = 	 {https://proceedings.mlr.press/v97/mei19a.html},
-}'
+bib: |+2
+  @InProceedings{pmlr-v97-mei19a,
+    title = {Imputing Missing Events in Continuous-Time Event Streams},
+    author = {Mei, Hongyuan and Qin, Guanghui and Eisner, Jason},
+    booktitle = {Proceedings of the 36th International Conference on Machine Learning},
+    pages = {4475--4485},
+    year = {2019},
+    editor = {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+    volume = {97},
+    series = {Proceedings of Machine Learning Research},
+    publisher = {PMLR},
+    url = {https://proceedings.mlr.press/v97/mei19a.html},
+  }
 links:
   code: "https://github.com/hongyuanmei/neural-hawkes-particle-smoothing"
   poster: /files/19papers/smoothing_poster.pdf

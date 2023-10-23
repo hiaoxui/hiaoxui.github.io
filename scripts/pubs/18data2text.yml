@@ -8,7 +8,8 @@ authors:
 venue: EMNLP-demo
 year: 2018
 url: "https://dx.doi.org/10.18653/v1/D18-2003"
-bib: '@inproceedings{dou-etal-2018-data2text,
+bib: |+2
+  @inproceedings{dou-etal-2018-data2text,
     title = "{D}ata2{T}ext Studio: Automated Text Generation from Structured Data",
     author = "Dou, Longxu  and
       Qin, Guanghui  and
@@ -23,4 +24,4 @@ bib: '@inproceedings{dou-etal-2018-data2text,
     url = "https://dx.doi.org/10.18653/v1/D18-2003",
     doi = "10.18653/v1/D18-2003",
     pages = "13--18",
-}'
+  }

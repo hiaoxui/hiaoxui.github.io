@@ -16,7 +16,8 @@ authors:
 venue: EMNLP
 year: 2021
 url: "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149"
-bib: '@inproceedings{yarmohammadi-etal-2021-everything,
+bib: |+2
+  @inproceedings{yarmohammadi-etal-2021-everything,
     title = "Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction",
     author = "Yarmohammadi, Mahsa  and
       Wu, Shijie  and
@@ -39,7 +40,7 @@ bib: '@inproceedings{yarmohammadi-etal-2021-everything,
     url = "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149",
     doi = "10.18653/v1/2021.emnlp-main.149",
     pages = "1950--1967",
-}'
+  }
 links:
   video: "https://aclanthology.org/2021.emnlp-main.149.mp4"
   code: "https://github.com/shijie-wu/crosslingual-nlp"

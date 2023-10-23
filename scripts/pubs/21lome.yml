@@ -14,7 +14,8 @@ authors:
 venue: EACL-demo
 year: 2021
 url: "https://dx.doi.org/10.18653/v1/2021.eacl-demos.19"
-bib: '@inproceedings{xia-etal-2021-lome,
+bib: |+2
+  @inproceedings{xia-etal-2021-lome,
     title = "{LOME}: Large Ontology Multilingual Extraction",
     author = "Xia, Patrick  and
       Qin, Guanghui  and
@@ -34,7 +35,7 @@ bib: '@inproceedings{xia-etal-2021-lome,
     url = "https://dx.doi.org/10.18653/v1/2021.eacl-demos.19",
     doi = "10.18653/v1/2021.eacl-demos.19",
     pages = "149--159",
-}'
+  }
 links:
   demo: "https://nlp.jhu.edu/demos/lome/"
   code: "https://github.com/hiaoxui/span-finder"

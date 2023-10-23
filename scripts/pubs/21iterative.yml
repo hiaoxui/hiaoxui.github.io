@@ -8,7 +8,8 @@ authors:
 venue: TACL
 year: 2021
 url: "https://doi.org/10.1162/tacl_a_00380"
-bib: '@article{10.1162/tacl_a_00380,
+bib: |+2
+  @article{10.1162/tacl_a_00380,
     author = {Culkin, Ryan and Hu, J. Edward and Stengel-Eskin, Elias and Qin, Guanghui and Durme, Benjamin Van},
     title = "{Iterative Paraphrastic Augmentation with Discriminative Span Alignment}",
     journal = {Transactions of the Association for Computational Linguistics},
@@ -20,4 +21,4 @@ bib: '@article{10.1162/tacl_a_00380,
     doi = {10.1162/tacl_a_00380},
     url = {https://doi.org/10.1162/tacl\_a\_00380},
     eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00380/1924197/tacl\_a\_00380.pdf},
-}'
+  }

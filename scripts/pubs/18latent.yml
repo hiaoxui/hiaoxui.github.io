@@ -9,7 +9,8 @@ authors:
 venue: EMNLP
 year: 2018
 url: "https://dx.doi.org/10.18653/v1/D18-1411"
-bib: '@inproceedings{qin-etal-2018-learning,
+bib: |+2
+  @inproceedings{qin-etal-2018-learning,
     title = "Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data",
     author = "Qin, Guanghui  and
       Yao, Jin-Ge  and
@@ -24,7 +25,7 @@ bib: '@inproceedings{qin-etal-2018-learning,
     url = "https://dx.doi.org/10.18653/v1/D18-1411",
     doi = "10.18653/v1/D18-1411",
     pages = "3761--3771",
-}'
+  }
 links:
   code: "https://github.com/hiaoxui/D2T-Grounding"
   slides: "/files/18papers/d2t_slides.pptx"

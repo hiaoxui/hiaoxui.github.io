@@ -8,6 +8,8 @@ permalink: /publications/
 author_profile: true
 ---\n\n'''
 
+div_id = 0
+
 
 venues = {
     'EACL': 'Annual Conference of the European Chapter of the Association for Computational Linguistics',
@@ -44,6 +46,17 @@ def author_list(authors):
     return ', '.join(aus[:-1]) + ', and ' + aus[-1]
 
 
+def bib_button(bib):
+    global div_id
+    bib = bib.replace("\n", "<br>\n").replace(' ', '&nbsp;')
+    button = f'[<a href="javascript:toggleDiv(\'{div_id}bib\')">bibtex</a>]'
+    div = f'''<div id="{div_id}bib" style="display: none" class="bib">
+    {bib}
+    </div>'''
+    div_id += 1
+    return button, div
+
+
 def main():
     pubs = list()
     root = 'scripts/pubs'
@@ -67,7 +80,15 @@ def main():
             tag_elements.append(f'[<a href="{pub["url"]}">paper</a>]')
         for k in pub.get('links', []):
             tag_elements.append(f'[<a href="{pub["links"][k]}">{k}</a>]')
+
+        bib_div = None
+        if 'bib' in pub:
+            bib_tag, bib_div = bib_button(pub['bib'])
+            tag_elements.append(bib_tag)
+
         line += '<span>' + ' '.join(tag_elements) + '</span>'
+        if bib_div is not None:
+            line += '\n' + bib_div
 
         texts.append(line)
 

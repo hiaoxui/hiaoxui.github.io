@@ -6,20 +6,19 @@ authors:
 venue: ICML
 year: 2023
 url: "https://proceedings.mlr.press/v202/qin23a/qin23a.pdf"
-bib: '@InProceedings{pmlr-v202-qin23a,
-  title = 	 {Nugget: Neural Agglomerative Embeddings of Text},
-  author =       {Qin, Guanghui and Van Durme, Benjamin},
-  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
-  pages = 	 {28337--28350},
-  year = 	 {2023},
-  editor = 	 {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
-  volume = 	 {202},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {23--29 Jul},
-  publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v202/qin23a/qin23a.pdf},
-  url = 	 {https://proceedings.mlr.press/v202/qin23a.html},
-}'
+bib: |+2
+  @InProceedings{pmlr-v202-qin23a,
+    title = {Nugget: Neural Agglomerative Embeddings of Text},
+    author = {Qin, Guanghui and Van Durme, Benjamin},
+    booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+    pages = {28337--28350},
+    year = {2023},
+    editor = {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+    volume = {202},
+    series = {Proceedings of Machine Learning Research},
+    publisher = {PMLR},
+    url = {https://proceedings.mlr.press/v202/qin23a.html},
+  }
 links:
   data: "https://github.com/hiaoxui/nugget-data"
   poster: "/files/23papers/nugget_poster.pdf"

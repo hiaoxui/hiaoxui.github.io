@@ -7,20 +7,18 @@ authors:
 venue: EACL
 year: 2023
 url: "https://aclanthology.org/2023.eacl-main.273.pdf"
-bib: '@inproceedings{qin-etal-2023-nlp,
+bib: |+2
+  @inproceedings{qin-etal-2023-nlp,
     title = "The {NLP} Task Effectiveness of Long-Range Transformers",
-    author = "Qin, Guanghui  and
-      Feng, Yukun  and
-      Van Durme, Benjamin",
+    author = "Qin, Guanghui  and Feng, Yukun  and Van Durme, Benjamin",
     booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
-    month = may,
     year = "2023",
     address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.eacl-main.273",
     doi = "10.18653/v1/2023.eacl-main.273",
     pages = "3774--3790",
-}'
+  }
 links:
   code: "https://github.com/hiaoxui/long-range-transformers"
   slides: "/files/23papers/lrt_slides.pptx"

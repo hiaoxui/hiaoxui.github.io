@@ -8,7 +8,8 @@ authors:
 venue: Fourth Workshop on Structured Prediction for NLP
 year: 2020
 url: "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2"
-bib: '@inproceedings{singh-etal-2020-copynext,
+bib: |+2
+  @inproceedings{singh-etal-2020-copynext,
     title = "{C}opy{N}ext: Explicit Span Copying and Alignment in Sequence to Sequence Models",
     author = "Singh, Abhinav  and
       Xia, Patrick  and
@@ -23,7 +24,7 @@ bib: '@inproceedings{singh-etal-2020-copynext,
     url = "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2",
     doi = "10.18653/v1/2020.spnlp-1.2",
     pages = "11--16",
-}'
+  }
 links:
   video: "https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model"
   code: "https://github.com/abhinonymous/copynext"
