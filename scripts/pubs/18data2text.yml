@@ -5,7 +5,7 @@ authors:
   - Jinpeng Wang
   - Jin-Ge Yao
   - Chin-Yew Lin
-venue: EMNLP
+venue: EMNLP-demo
 year: 2018
 url: "https://dx.doi.org/10.18653/v1/D18-2003"
 bib: '@inproceedings{dou-etal-2018-data2text,

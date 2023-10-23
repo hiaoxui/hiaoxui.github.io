@@ -35,3 +35,8 @@ bib: '@inproceedings{xia-etal-2021-lome,
     doi = "10.18653/v1/2021.eacl-demos.19",
     pages = "149--159",
 }'
+links:
+  demo: "https://nlp.jhu.edu/demos/lome/"
+  code: "https://github.com/hiaoxui/span-finder"
+  docker: "https://hub.docker.com/r/hltcoe/lome"
+  video: "https://www.youtube.com/watch?v=o4KsGdnV6BE&list=LL&index=13"

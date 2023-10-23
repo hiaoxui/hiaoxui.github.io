@@ -25,3 +25,7 @@ bib: '@inproceedings{qin-etal-2018-learning,
     doi = "10.18653/v1/D18-1411",
     pages = "3761--3771",
 }'
+links:
+  code: "https://github.com/hiaoxui/D2T-Grounding"
+  slides: "/files/18papers/d2t_slides.pptx"
+  video: "https://vimeo.com/306117499"

@@ -21,3 +21,8 @@ bib: '@inproceedings{qin-etal-2023-nlp,
     doi = "10.18653/v1/2023.eacl-main.273",
     pages = "3774--3790",
 }'
+links:
+  code: "https://github.com/hiaoxui/long-range-transformers"
+  slides: "/files/23papers/lrt_slides.pptx"
+  poster: "/files/23papers/lrt_poster.pdf"
+  video: "https://aclanthology.org/2023.eacl-main.273.mp4"

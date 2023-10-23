@@ -40,3 +40,6 @@ bib: '@inproceedings{yarmohammadi-etal-2021-everything,
     doi = "10.18653/v1/2021.emnlp-main.149",
     pages = "1950--1967",
 }'
+links:
+  video: "https://aclanthology.org/2021.emnlp-main.149.mp4"
+  code: "https://github.com/shijie-wu/crosslingual-nlp"

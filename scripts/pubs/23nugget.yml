@@ -20,3 +20,8 @@ bib: '@InProceedings{pmlr-v202-qin23a,
   pdf = 	 {https://proceedings.mlr.press/v202/qin23a/qin23a.pdf},
   url = 	 {https://proceedings.mlr.press/v202/qin23a.html},
 }'
+links:
+  data: "https://github.com/hiaoxui/nugget-data"
+  poster: "/files/23papers/nugget_poster.pdf"
+  slides: "/files/23papers/nugget_slides.pptx"
+  twitter: "https://twitter.com/hiaoxui/status/1711858430510502369"

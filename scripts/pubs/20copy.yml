@@ -24,3 +24,6 @@ bib: '@inproceedings{singh-etal-2020-copynext,
     doi = "10.18653/v1/2020.spnlp-1.2",
     pages = "11--16",
 }'
+links:
+  video: "https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model"
+  code: "https://github.com/abhinonymous/copynext"

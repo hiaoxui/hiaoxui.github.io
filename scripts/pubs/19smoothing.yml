@@ -21,3 +21,7 @@ bib: '
   pdf = 	 {https://proceedings.mlr.press/v97/mei19a/mei19a.pdf},
   url = 	 {https://proceedings.mlr.press/v97/mei19a.html},
 }'
+links:
+  code: "https://github.com/hongyuanmei/neural-hawkes-particle-smoothing"
+  poster: /files/19papers/smoothing_poster.pdf
+  slides: "/files/19papers/smoothing_slides.pdf"

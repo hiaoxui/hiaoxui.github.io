@@ -32,14 +32,13 @@ def author_list(authors):
     aus = []
     for au in authors:
         if au.endswith('*'):
-            star = '\\\\*'
+            star = r'\*'
             au = au[:-1]
         else:
             star = ''
         if 'Guanghui Qin' in au:
             au = '**' + au + '**'
         aus.append(au + star)
-    aus = [f'**{au}**' if 'Guanghui Qin' in au else au for au in authors]
     if len(aus) <= 2:
         return ' and '.join(aus)
     return ', '.join(aus[:-1]) + ', and ' + aus[-1]
@@ -62,6 +61,14 @@ def main():
         line += f'*{gen_venue(pub["venue"])}*, {pub["year"]}. '
         if 'remark' in pub:
             line += f'<span style="color:red">**{pub["remark"]}**</span>.'
+
+        tag_elements = []
+        if 'url' in pub:
+            tag_elements.append(f'[<a href="{pub["url"]}">paper</a>]')
+        for k in pub.get('links', []):
+            tag_elements.append(f'[<a href="{pub["links"][k]}">{k}</a>]')
+        line += '<span>' + ' '.join(tag_elements) + '</span>'
+
         texts.append(line)
 
     with open('_pages/publications.md', 'w') as fp:
