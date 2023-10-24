@@ -49,7 +49,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras-mediated homeostatic control of front-back signaling dictates cell polarity](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. *bioRxiv: 2023.08.30.555648*, 2023. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [Ras-mediated homeostatic control of front-back signaling dictates cell polarity](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. *bioRxiv: 2023.08.30.555648*, 2023. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 <div id="3bib" style="display: none" class="bib">
     @article&nbsp;{Lin2023.08.30.555648,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
