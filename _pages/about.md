@@ -15,6 +15,8 @@ Before my Ph.D. study, I obtained a bachelor's degree in Physics (with a double 
 For internship, I visited Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research at Redmond (mentored by [Corby Rosset](https://http://corbyrosset.com/)).
 I was also a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
+Find my email address [here](/email/).
+
 ## My research
 
 I am interested in language representation, especially for long texts.
