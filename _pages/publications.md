@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-- [Researchy Questions: A Dataset of Multi-Perpective, Decompositional Questions for LLM Web Agents](https://openreview.net/pdf?id=CkMhAUtF68). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. *arXiv*, 2024. <span>[<a href="https://openreview.net/pdf?id=CkMhAUtF68">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://openreview.net/pdf?id=CkMhAUtF68). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. *arXiv*, 2024. <span>[<a href="https://openreview.net/pdf?id=CkMhAUtF68">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
     @misc{rosset24researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perpective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Hassan&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
 }<br>
