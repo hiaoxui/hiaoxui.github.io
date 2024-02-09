@@ -1,0 +1,20 @@
+title: "Researchy Questions: A Dataset of Multi-Perpective, Decompositional Questions for LLM Web Agents"
+priority: 9
+authors:
+  - Corby Rosset
+  - Ho-Lam Chung
+  - Guanghui Qin
+  - Ehtan C Chau
+  - Zhuo Feng
+  - Ahmed Hassan Awadallah
+  - Jennifer Neville
+  - Nikhil Rao
+venue: "arXiv"
+year: 2024
+url: "https://openreview.net/pdf?id=CkMhAUtF68"
+bib: |+2
+  @misc{rosset24researchy,
+      title={Researchy Questions: A Dataset of Multi-Perpective, Decompositional Questions for LLM Web Agents}, 
+      author={Corby Rosset and Ho-Lam Chung and Guanghui Qin and Ethan C. Chau and Zhuo Feng and Ahmed Hassan Awadallah and Jennifer Neville and Nikhil Rao},
+      year={2024},
+  }
