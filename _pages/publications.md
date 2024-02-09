@@ -55,7 +55,7 @@ author_profile: true
 }<br>
 
     </div>
-- [The NLP Task Effectiveness of Long-Range Transformers](https://aclanthology.org/2023.eacl-main.273.pdf). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL)*, 2023. <span>[<a href="https://aclanthology.org/2023.eacl-main.273.pdf">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [The NLP Task Effectiveness of Long-Range Transformers](https://aclanthology.org/2023.eacl-main.273.pdf). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, oral)*, 2023. <span>[<a href="https://aclanthology.org/2023.eacl-main.273.pdf">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 <div id="4bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2023-nlp,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"The&nbsp;{NLP}&nbsp;Task&nbsp;Effectiveness&nbsp;of&nbsp;Long-Range&nbsp;Transformers",<br>
@@ -142,7 +142,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://dx.doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2021. <span>[<a href="https://dx.doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://dx.doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. *Conference on Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2021. <span>[<a href="https://dx.doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 <div id="9bib" style="display: none" class="bib">
     @inproceedings{yarmohammadi-etal-2021-everything,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Everything&nbsp;Is&nbsp;All&nbsp;It&nbsp;Takes:&nbsp;A&nbsp;Multipronged&nbsp;Strategy&nbsp;for&nbsp;Zero-Shot&nbsp;Cross-Lingual&nbsp;Information&nbsp;Extraction",<br>
@@ -170,7 +170,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Neural Datalog through Time: Informed Temporal Modeling via Logical Specification](https://proceedings.mlr.press/v119/mei20a/mei20a.pdf). Hongyuan Mei, **Guanghui Qin**, Minjie Xu, and Jason Eisner. *International Conference on Machine Learning (ICML)*, 2020. <span>[<a href="https://proceedings.mlr.press/v119/mei20a/mei20a.pdf">paper</a>] [<a href="https://www.bloomberg.com/company/stories/icml-2020-bloomberg-ph-d-fellow-combines-datalog-and-neural-networks-to-model-dynamic-databases/">blog</a>] [<a href="/files/20papers/datalog_slides.pptx">slides</a>] [<a href="https://github.com/hongyuanmei/neural-datalog-through-time">code</a>] [<a href="https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.mp4">video</a>] [<a href="https://fortune.com/2020/09/08/disco-bell-bottoms-big-hair-and-cutting-edge-a-i/">press</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
+- [Neural Datalog through Time: Informed Temporal Modeling via Logical Specification](https://proceedings.mlr.press/v119/mei20a/mei20a.pdf). Hongyuan Mei, **Guanghui Qin**, Minjie Xu, and Jason Eisner. *International Conference on Machine Learning (ICML, oral)*, 2020. <span>[<a href="https://proceedings.mlr.press/v119/mei20a/mei20a.pdf">paper</a>] [<a href="https://www.bloomberg.com/company/stories/icml-2020-bloomberg-ph-d-fellow-combines-datalog-and-neural-networks-to-model-dynamic-databases/">blog</a>] [<a href="/files/20papers/datalog_slides.pptx">slides</a>] [<a href="https://github.com/hongyuanmei/neural-datalog-through-time">code</a>] [<a href="https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.mp4">video</a>] [<a href="https://fortune.com/2020/09/08/disco-bell-bottoms-big-hair-and-cutting-edge-a-i/">press</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
 <div id="10bib" style="display: none" class="bib">
     @InProceedings{pmlr-v119-mei20a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Neural&nbsp;Datalog&nbsp;Through&nbsp;Time:&nbsp;Informed&nbsp;Temporal&nbsp;Modeling&nbsp;via&nbsp;Logical&nbsp;Specification},<br>
@@ -208,7 +208,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Imputing Missing Events in Continuous-Time Event Streams](https://proceedings.mlr.press/v97/mei19a/mei19a.pdf). Hongyuan Mei, **Guanghui Qin**, and Jason Eisner. *International Conference on Machine Learning (ICML)*, 2019. <span>[<a href="https://proceedings.mlr.press/v97/mei19a/mei19a.pdf">paper</a>] [<a href="https://github.com/hongyuanmei/neural-hawkes-particle-smoothing">code</a>] [<a href="/files/19papers/smoothing_poster.pdf">poster</a>] [<a href="/files/19papers/smoothing_slides.pdf">slides</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
+- [Imputing Missing Events in Continuous-Time Event Streams](https://proceedings.mlr.press/v97/mei19a/mei19a.pdf). Hongyuan Mei, **Guanghui Qin**, and Jason Eisner. *International Conference on Machine Learning (ICML, oral)*, 2019. <span>[<a href="https://proceedings.mlr.press/v97/mei19a/mei19a.pdf">paper</a>] [<a href="https://github.com/hongyuanmei/neural-hawkes-particle-smoothing">code</a>] [<a href="/files/19papers/smoothing_poster.pdf">poster</a>] [<a href="/files/19papers/smoothing_slides.pdf">slides</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
 <div id="12bib" style="display: none" class="bib">
     @InProceedings{pmlr-v97-mei19a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Imputing&nbsp;Missing&nbsp;Events&nbsp;in&nbsp;Continuous-Time&nbsp;Event&nbsp;Streams},<br>
@@ -224,7 +224,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://dx.doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2018. <span>[<a href="https://dx.doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
+- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://dx.doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. *Conference on Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2018. <span>[<a href="https://dx.doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
 <div id="13bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2018-learning,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Learning&nbsp;Latent&nbsp;Semantic&nbsp;Annotations&nbsp;for&nbsp;Grounding&nbsp;Natural&nbsp;Language&nbsp;to&nbsp;Structured&nbsp;Data",<br>
