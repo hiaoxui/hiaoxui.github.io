@@ -271,6 +271,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 228)
   hawkins
+  jekyll
   jekyll-feed
   jekyll-sitemap
   json
