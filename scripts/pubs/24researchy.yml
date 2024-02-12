@@ -1,5 +1,5 @@
 title: "Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents"
-priority: 9
+priority: 1
 authors:
   - Corby Rosset
   - Ho-Lam Chung
@@ -9,9 +9,8 @@ authors:
   - Ahmed Hassan Awadallah
   - Jennifer Neville
   - Nikhil Rao
-venue: "arXiv"
+venue: "OpenReview"
 year: 2024
-url: "https://openreview.net/pdf?id=CkMhAUtF68"
 bib: |+2
   @misc{rosset24researchy,
       title={Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents}, 

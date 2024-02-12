@@ -71,7 +71,7 @@ def main():
         else:
             line = '- ' + pub['title'] + '. '
         line += author_list(pub['authors']) + '. '
-        line += f'*{gen_venue(pub["venue"])}*, {pub["year"]}. '
+        line += f'In *{gen_venue(pub["venue"])}*, {pub["year"]}. '
         if 'remark' in pub:
             line += f'<span style="color:red">**{pub["remark"]}**</span>.'
 
