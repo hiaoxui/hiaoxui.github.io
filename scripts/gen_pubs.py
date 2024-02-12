@@ -69,7 +69,7 @@ def main():
         if 'url' in pub:
             line = f'- [{pub["title"]}]({pub["url"]}). '
         else:
-            line = '- ' + pub['title'] + '. '
+            line = f'- <span style="text-decoration:underline">{pub["title"]}</span>. '
         line += author_list(pub['authors']) + '. '
         line += f'In *{gen_venue(pub["venue"])}*, {pub["year"]}. '
         if 'remark' in pub:
