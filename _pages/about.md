@@ -11,12 +11,11 @@ redirect_from:
 I am a fifth year Ph.D. student at [Center for Speech and Langauge Processing, Johns Hopkins University](https://www.clsp.jhu.edu/).
 I study natural language processing (NLP), advised by [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/). 
 
-Before my Ph.D. study, I obtained a bachelor's degree in Physics (with a double major in computer science) at [Peking University](https://english.pku.edu.cn/).
-For internship, I visited Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research at Redmond (mentored by [Corby Rosset](https://http://corbyrosset.com/)).
+Before my Ph.D. study, I obtained a bachelor's degree in physics and computer science at [Peking University](https://english.pku.edu.cn/).
+I used to work as research interns at Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research Lab at Redmond.
 I was also a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
-**I am on the job market now, aiming for research positions in both academia and industry.**
-Do not hesitate to email me if you have opportunities!
+**I am on the job market now, looking for both postdoc and industry opportunities!**
 
 Find my email address [here](/email/).
 
@@ -31,10 +30,10 @@ information extraction, prompting (for which I won the *Best Short Paper* award 
 
 ## Walless
 
-I am more known as *hiaoxui*, who developed [WallessPKU](https://wallesspku.com/blog/about/).
-Walless is a platform that helps Chinese netizens to circumvent [Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall).
+I am more known as *hiaoxui*, who is the founder of [WallessPKU](https://wallesspku.com/blog/about/).
+Walless is a platform that helps Chinese netizens to circumvent [the Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall).
 For over 7 years, I have been developing and funding this non-profit project to help
-tens of thousands people to access the global internet without censorship.
+tens of thousands people to access the internet without censorship.
 
 ## My name
 
