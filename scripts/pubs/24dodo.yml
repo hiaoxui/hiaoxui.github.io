@@ -1,5 +1,5 @@
 title: "Dodo: Dynamic Contextual Compression for Decoder-only LMs"
-priority: 1
+priority: 9
 authors:
   - Guanghui Qin
   - Corby Rosset
