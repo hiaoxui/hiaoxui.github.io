@@ -1,0 +1,20 @@
+title: "Dodo: Dynamic Contextual Compression for Decoder-only LMs"
+priority: 1
+authors:
+  - Guanghui Qin
+  - Corby Rosset
+  - Ethan C Chau
+  - Nikhil Rao
+  - Benjamin Van Durme
+venue: "preprint"
+year: 2024
+url: "https://gqin.me/files/24papers/dodo.pdf"
+bib: |+2
+  @misc{qin2023dodo,
+      title={Dodo: Dynamic Contextual Compression for Decoder-only LMs}, 
+      author={Guanghui Qin and Corby Rosset and Ethan C. Chau and Nikhil Rao and Benjamin Van Durme},
+      year={2024},
+      url={https://gqin.me/files/24papers/dodo.pdf},
+  }
+links:
+  twitter: "https://twitter.com/hiaoxui/status/1711858430510502369"
