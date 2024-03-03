@@ -6,15 +6,13 @@ author_profile: true
 ---
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *arXiv*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
-    @misc{rosset2024researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
+    @misc{qin2023dodo,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Guanghui&nbsp;Qin&nbsp;and&nbsp;Corby&nbsp;Rosset&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Nikhil&nbsp;Rao&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.17896},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://gqin.me/files/24papers/dodo.pdf},<br>
 }<br>
 
     </div>
@@ -30,13 +28,15 @@ author_profile: true
 }<br>
 
     </div>
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *arXiv*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 <div id="2bib" style="display: none" class="bib">
-    @misc{qin2023dodo,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Guanghui&nbsp;Qin&nbsp;and&nbsp;Corby&nbsp;Rosset&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Nikhil&nbsp;Rao&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
+    @misc{rosset2024researchy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://gqin.me/files/24papers/dodo.pdf},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.17896},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
 }<br>
 
     </div>
