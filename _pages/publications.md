@@ -30,7 +30,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *preprint*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *arXiv*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 <div id="2bib" style="display: none" class="bib">
     @misc{qin2023dodo,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs},&nbsp;<br>
