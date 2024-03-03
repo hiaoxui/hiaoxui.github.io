@@ -9,11 +9,15 @@ authors:
   - Ahmed Hassan Awadallah
   - Jennifer Neville
   - Nikhil Rao
-venue: "OpenReview"
+venue: "arXiv: 2402.17896"
 year: 2024
+url: https://doi.org/10.48550/arXiv.2402.17896
 bib: |+2
-  @misc{rosset24researchy,
+  @misc{rosset2024researchy,
       title={Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents}, 
-      author={Corby Rosset and Ho-Lam Chung and Guanghui Qin and Ethan C. Chau and Zhuo Feng and Ahmed Hassan Awadallah and Jennifer Neville and Nikhil Rao},
+      author={Corby Rosset and Ho-Lam Chung and Guanghui Qin and Ethan C. Chau and Zhuo Feng and Ahmed Awadallah and Jennifer Neville and Nikhil Rao},
       year={2024},
+      eprint={2402.17896},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
   }
