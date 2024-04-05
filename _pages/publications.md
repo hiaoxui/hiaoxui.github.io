@@ -16,20 +16,8 @@ author_profile: true
 }<br>
 
     </div>
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *arXiv: 2402.01172*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 <div id="1bib" style="display: none" class="bib">
-    @misc{tan2024streaming,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Streaming&nbsp;Sequence&nbsp;Transduction&nbsp;through&nbsp;Dynamic&nbsp;Compression},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Weiting&nbsp;Tan&nbsp;and&nbsp;Yunmo&nbsp;Chen&nbsp;and&nbsp;Tongfei&nbsp;Chen&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Haoran&nbsp;Xu&nbsp;and&nbsp;Heidi&nbsp;C.&nbsp;Zhang&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme&nbsp;and&nbsp;Philipp&nbsp;Koehn},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.01172},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
-}<br>
-
-    </div>
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
-<div id="2bib" style="display: none" class="bib">
     @misc{rosset2024researchy,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
@@ -40,8 +28,35 @@ author_profile: true
 }<br>
 
     </div>
-- [Nugget: Neural Agglomerative Embeddings of Text](https://proceedings.mlr.press/v202/qin23a/qin23a.pdf). **Guanghui Qin** and Benjamin Van Durme. In *International Conference on Machine Learning (ICML)*, 2023. <span>[<a href="https://proceedings.mlr.press/v202/qin23a/qin23a.pdf">paper</a>] [<a href="https://github.com/hiaoxui/nugget-data">data</a>] [<a href="/files/23papers/nugget_poster.pdf">poster</a>] [<a href="/files/23papers/nugget_slides.pptx">slides</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [Ras-mediated homeostatic control of front-back signaling dictates cell polarity](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology (to appear)*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+<div id="2bib" style="display: none" class="bib">
+    @article&nbsp;{Lin2023.08.30.555648,<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras-mediated&nbsp;homeostatic&nbsp;control&nbsp;of&nbsp;front-back&nbsp;signaling&nbsp;dictates&nbsp;cell&nbsp;polarity},<br>
+&nbsp;&nbsp;elocation-id&nbsp;=&nbsp;{2023.08.30.555648},<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2023},<br>
+&nbsp;&nbsp;doi&nbsp;=&nbsp;{10.1101/2023.08.30.555648},<br>
+&nbsp;&nbsp;publisher&nbsp;=&nbsp;{Cold&nbsp;Spring&nbsp;Harbor&nbsp;Laboratory},<br>
+&nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},<br>
+&nbsp;&nbsp;eprint&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648.full.pdf},<br>
+&nbsp;&nbsp;journal&nbsp;=&nbsp;{bioRxiv}<br>
+}<br>
+
+    </div>
+- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *arXiv: 2402.01172*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 <div id="3bib" style="display: none" class="bib">
+    @misc{tan2024streaming,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Streaming&nbsp;Sequence&nbsp;Transduction&nbsp;through&nbsp;Dynamic&nbsp;Compression},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Weiting&nbsp;Tan&nbsp;and&nbsp;Yunmo&nbsp;Chen&nbsp;and&nbsp;Tongfei&nbsp;Chen&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Haoran&nbsp;Xu&nbsp;and&nbsp;Heidi&nbsp;C.&nbsp;Zhang&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme&nbsp;and&nbsp;Philipp&nbsp;Koehn},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.01172},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
+}<br>
+
+    </div>
+- [Nugget: Neural Agglomerative Embeddings of Text](https://proceedings.mlr.press/v202/qin23a/qin23a.pdf). **Guanghui Qin** and Benjamin Van Durme. In *International Conference on Machine Learning (ICML)*, 2023. <span>[<a href="https://proceedings.mlr.press/v202/qin23a/qin23a.pdf">paper</a>] [<a href="https://github.com/hiaoxui/nugget-data">data</a>] [<a href="/files/23papers/nugget_poster.pdf">poster</a>] [<a href="/files/23papers/nugget_slides.pptx">slides</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+<div id="4bib" style="display: none" class="bib">
     @InProceedings{pmlr-v202-qin23a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Nugget:&nbsp;Neural&nbsp;Agglomerative&nbsp;Embeddings&nbsp;of&nbsp;Text},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Qin,&nbsp;Guanghui&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
@@ -56,8 +71,8 @@ author_profile: true
 }<br>
 
     </div>
-- [The NLP Task Effectiveness of Long-Range Transformers](https://aclanthology.org/2023.eacl-main.273.pdf). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, oral)*, 2023. <span>[<a href="https://aclanthology.org/2023.eacl-main.273.pdf">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
-<div id="4bib" style="display: none" class="bib">
+- [The NLP Task Effectiveness of Long-Range Transformers](https://aclanthology.org/2023.eacl-main.273.pdf). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, oral)*, 2023. <span>[<a href="https://aclanthology.org/2023.eacl-main.273.pdf">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+<div id="5bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2023-nlp,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"The&nbsp;{NLP}&nbsp;Task&nbsp;Effectiveness&nbsp;of&nbsp;Long-Range&nbsp;Transformers",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and&nbsp;Feng,&nbsp;Yukun&nbsp;&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
@@ -68,21 +83,6 @@ author_profile: true
 &nbsp;&nbsp;url&nbsp;=&nbsp;"https://aclanthology.org/2023.eacl-main.273",<br>
 &nbsp;&nbsp;doi&nbsp;=&nbsp;"10.18653/v1/2023.eacl-main.273",<br>
 &nbsp;&nbsp;pages&nbsp;=&nbsp;"3774--3790",<br>
-}<br>
-
-    </div>
-- [Ras-mediated homeostatic control of front-back signaling dictates cell polarity](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *bioRxiv: 2023.08.30.555648*, 2023. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
-<div id="5bib" style="display: none" class="bib">
-    @article&nbsp;{Lin2023.08.30.555648,<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras-mediated&nbsp;homeostatic&nbsp;control&nbsp;of&nbsp;front-back&nbsp;signaling&nbsp;dictates&nbsp;cell&nbsp;polarity},<br>
-&nbsp;&nbsp;elocation-id&nbsp;=&nbsp;{2023.08.30.555648},<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2023},<br>
-&nbsp;&nbsp;doi&nbsp;=&nbsp;{10.1101/2023.08.30.555648},<br>
-&nbsp;&nbsp;publisher&nbsp;=&nbsp;{Cold&nbsp;Spring&nbsp;Harbor&nbsp;Laboratory},<br>
-&nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},<br>
-&nbsp;&nbsp;eprint&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648.full.pdf},<br>
-&nbsp;&nbsp;journal&nbsp;=&nbsp;{bioRxiv}<br>
 }<br>
 
     </div>
