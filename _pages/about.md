@@ -11,10 +11,8 @@ I am a fifth year Ph.D. student at [Center for Speech and Langauge Processing, J
 I study natural language processing (NLP), advised by [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/). 
 
 Before my Ph.D. study, I obtained a bachelor's degree in physics and computer science at [Peking University](https://english.pku.edu.cn/).
-I used to work as research interns at Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research Lab at Redmond.
+I used to work as research interns at Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Microsoft Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research Lab at Redmond.
 I was also a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
-
-**I am on the job market now, looking for both postdoc and industry opportunities!**
 
 Find my email address [here](/email/).
 
