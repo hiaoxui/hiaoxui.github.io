@@ -10,9 +10,11 @@ redirect_from:
 I am a fifth year Ph.D. student at [Center for Speech and Langauge Processing, Johns Hopkins University](https://www.clsp.jhu.edu/).
 I study natural language processing (NLP), advised by [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/). 
 
-Before my Ph.D. study, I obtained a bachelor's degree in physics and computer science at [Peking University](https://english.pku.edu.cn/).
-I used to work as research interns at Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)), Microsoft Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)), and Microsoft Research Lab at Redmond.
-I was also a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
+Before my Ph.D. program, I obtained a bachelor's degree in physics (primary) and computer science (secondary) at [Peking University](https://english.pku.edu.cn/).
+I used to work as research interns at Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)) working on grounded langauge acquisition,
+Microsoft Semantic Machines (mentored by [Anthony Platanios](https://platanios.org/)) working on graph nerual networks,
+and Microsoft Research Lab at Redmond (mentored by [Corby Rosset](https://www.microsoft.com/en-us/research/people/corbyrosset/) working on large language models.
+I was a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
 Find my email address [here](/email/).
 
