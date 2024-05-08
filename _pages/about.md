@@ -16,6 +16,8 @@ Microsoft Semantic Machines (mentored by [Anthony Platanios](https://platanios.o
 and Microsoft Research Lab at Redmond (mentored by [Corby Rosset](https://www.microsoft.com/en-us/research/people/corbyrosset/) working on large language models.
 I was a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
+**Update**: I will be a researcher at [Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), Microsoft Research after graduation. See you in Redmond!
+
 Find my email address [here](/email/).
 
 ## My research
