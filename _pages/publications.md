@@ -33,11 +33,11 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras-mediated homeostatic control of front-back signaling dictates cell polarity](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology (to appear)*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Ras Suppression Potentiates Rear Actomyosin Contractility-Driven Cell Polarization and Migration](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology (to appear)*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 <div id="2bib" style="display: none" class="bib">
     @article&nbsp;{Lin2023.08.30.555648,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras-mediated&nbsp;homeostatic&nbsp;control&nbsp;of&nbsp;front-back&nbsp;signaling&nbsp;dictates&nbsp;cell&nbsp;polarity},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;Suppression&nbsp;Potentiates&nbsp;Rear&nbsp;Actomyosin&nbsp;Contractility-Driven&nbsp;Cell&nbsp;Polarization&nbsp;and&nbsp;Migration},<br>
 &nbsp;&nbsp;elocation-id&nbsp;=&nbsp;{2023.08.30.555648},<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2023},<br>
 &nbsp;&nbsp;doi&nbsp;=&nbsp;{10.1101/2023.08.30.555648},<br>
