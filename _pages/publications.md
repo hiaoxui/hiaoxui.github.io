@@ -6,13 +6,18 @@ author_profile: true
 ---
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *arXiv*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
-    @misc{qin2023dodo,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Guanghui&nbsp;Qin&nbsp;and&nbsp;Corby&nbsp;Rosset&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Nikhil&nbsp;Rao&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://gqin.me/files/24papers/dodo.pdf},<br>
+    @inproceedings{qin-etal-dodo-2024,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs",<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Rosset,&nbsp;Corby&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Chau,&nbsp;Ethan&nbsp;C&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Rao,&nbsp;Nikhil&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;the&nbsp;2024&nbsp;Conference&nbsp;on&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(ACL)",<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;"2024",<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://gqin.me/files/24papers/dodo.pdf"<br>
 }<br>
 
     </div>
