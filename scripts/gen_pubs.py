@@ -17,6 +17,7 @@ venues = {
     'EMNLP': 'Conference on Empirical Methods in Natural Language Processing',
     'NAACL': 'Annual Conference of the North American Chapter of the Association for Computational Linguistics',
     'TACL': 'Transactions of the Association for Computational Linguistics',
+    'ACL': 'Annual Meeting of the Association for Computational Linguistics',
 }
 
 
