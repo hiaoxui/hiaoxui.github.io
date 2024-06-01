@@ -1,4 +1,4 @@
-title: "Ras suppression potentiates actomyosin-driven polarization in migrating cells"
+title: "Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration"
 priority: 9
 authors:
   - Yiyan Lin*
@@ -10,18 +10,14 @@ authors:
   - Jane Borleis
   - Pablo A Iglesias
   - Peter Devreotes
-venue: "Nature Cell Biology (to appear)"
+venue: "Nature Cell Biology"
 year: 2024
 url: "https://doi.org/10.1101/2023.08.30.555648"
 bib: |
   @article {Lin2023.08.30.555648,
     author = {Yiyan Lin and Dhiman Sankar Pal and Parijat Banerjee and Tatsat Banerjee and Guanghui Qin and Yu Deng and Jane Borleis and Pablo A. Iglesias and Peter N. Devreotes},
-    title = {Ras suppression potentiates actomyosin-driven polarization in migrating cells},
-    elocation-id = {2023.08.30.555648},
-    year = {2023},
-    doi = {10.1101/2023.08.30.555648},
-    publisher = {Cold Spring Harbor Laboratory},
+    title = {Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration},
+    year = {2024},
     URL = {https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},
-    eprint = {https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648.full.pdf},
-    journal = {bioRxiv}
+    journal = {Nature Cell Biology}
   }

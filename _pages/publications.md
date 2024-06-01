@@ -33,18 +33,14 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras suppression potentiates actomyosin-driven polarization in migrating cells](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology (to appear)*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 <div id="2bib" style="display: none" class="bib">
     @article&nbsp;{Lin2023.08.30.555648,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;actomyosin-driven&nbsp;polarization&nbsp;in&nbsp;migrating&nbsp;cells},<br>
-&nbsp;&nbsp;elocation-id&nbsp;=&nbsp;{2023.08.30.555648},<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2023},<br>
-&nbsp;&nbsp;doi&nbsp;=&nbsp;{10.1101/2023.08.30.555648},<br>
-&nbsp;&nbsp;publisher&nbsp;=&nbsp;{Cold&nbsp;Spring&nbsp;Harbor&nbsp;Laboratory},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
 &nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},<br>
-&nbsp;&nbsp;eprint&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648.full.pdf},<br>
-&nbsp;&nbsp;journal&nbsp;=&nbsp;{bioRxiv}<br>
+&nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
 }<br>
 
     </div>
