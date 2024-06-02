@@ -21,8 +21,19 @@ author_profile: true
 }<br>
 
     </div>
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 <div id="1bib" style="display: none" class="bib">
+    @article&nbsp;{Lin2023.08.30.555648,<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
+&nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},<br>
+&nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
+}<br>
+
+    </div>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+<div id="2bib" style="display: none" class="bib">
     @misc{rosset2024researchy,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
@@ -30,17 +41,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.17896},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
-}<br>
-
-    </div>
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1101/2023.08.30.555648). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1101/2023.08.30.555648">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
-<div id="2bib" style="display: none" class="bib">
-    @article&nbsp;{Lin2023.08.30.555648,<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Yiyan&nbsp;Lin&nbsp;and&nbsp;Dhiman&nbsp;Sankar&nbsp;Pal&nbsp;and&nbsp;Parijat&nbsp;Banerjee&nbsp;and&nbsp;Tatsat&nbsp;Banerjee&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Deng&nbsp;and&nbsp;Jane&nbsp;Borleis&nbsp;and&nbsp;Pablo&nbsp;A.&nbsp;Iglesias&nbsp;and&nbsp;Peter&nbsp;N.&nbsp;Devreotes},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
-&nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.biorxiv.org/content/early/2023/09/01/2023.08.30.555648},<br>
-&nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
 }<br>
 
     </div>
