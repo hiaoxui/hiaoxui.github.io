@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://gqin.me/files/24papers/dodo.pdf). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, main)*, 2024. <span>[<a href="https://gqin.me/files/24papers/dodo.pdf">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://arxiv.org/pdf/2310.02409). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, main)*, 2024. <span>[<a href="https://arxiv.org/pdf/2310.02409">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
     @inproceedings{qin-etal-dodo-2024,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs",<br>
@@ -17,7 +17,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
 &nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;the&nbsp;2024&nbsp;Conference&nbsp;on&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(ACL)",<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;"2024",<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;"https://gqin.me/files/24papers/dodo.pdf"<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://arxiv.org/pdf/2310.02409"<br>
 }<br>
 
     </div>
