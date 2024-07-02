@@ -12,6 +12,8 @@ authors:
 venue: "arXiv: 2406.17186"
 year: 2024
 url: "https://arxiv.org/pdf/2406.17186"
+links:
+  data: "https://huggingface.co/datasets/jhu-clsp/CLERC"
 bib: |+2
   @misc{hou2024clercdatasetlegalcase,
       title={CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation},

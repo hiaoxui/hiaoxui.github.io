@@ -21,7 +21,7 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 <div id="1bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
@@ -44,7 +44,7 @@ author_profile: true
 }<br>
 
     </div>
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *arXiv: 2406.17186*, 2024. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *arXiv: 2406.17186*, 2024. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 <div id="3bib" style="display: none" class="bib">
     @misc{hou2024clercdatasetlegalcase,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation},<br>
