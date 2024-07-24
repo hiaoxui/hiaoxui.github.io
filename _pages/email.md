@@ -5,7 +5,8 @@ permalink: /email/
 author_profile: true
 ---
 
-My email address is `gXXX2@jhu.edu`. Replace `XXX` with my last name.
+I will soon lose the `@jhu.edu` email addresses as I am approaching graduation.
+Please use my personal email address, which is a string concatenation of `hiaoxui` and `@gmail.com`.
 
 Please contact me only for professional purposes. 
-I am not willing to discuss anything regarding WallessPKU (too many of them, sorry).
+I am unwilling to discuss anything regarding WallessPKU (too many of them overwhelm me, sorry).
