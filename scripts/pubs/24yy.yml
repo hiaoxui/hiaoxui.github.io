@@ -21,5 +21,8 @@ bib: |
     title = {Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration},
     year = {2024},
     URL = {https://www.nature.com/articles/s41556-024-01453-4},
+    issue = {7},
+    volumn = {26},
+    pages = {1062--1076},
     journal = {Nature Cell Biology}
   }
