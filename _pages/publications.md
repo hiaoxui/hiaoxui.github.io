@@ -6,18 +6,19 @@ author_profile: true
 ---
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://arxiv.org/pdf/2310.02409). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://arxiv.org/pdf/2310.02409">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
-    @inproceedings{qin-etal-dodo-2024,<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;LMs",<br>
+    @inproceedings{qin-etal-2024-dodo,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Rosset,&nbsp;Corby&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Chau,&nbsp;Ethan&nbsp;C&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Chau,&nbsp;Ethan&nbsp;&nbsp;and<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Rao,&nbsp;Nikhil&nbsp;&nbsp;and<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;the&nbsp;2024&nbsp;Conference&nbsp;on&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(ACL)",<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;the&nbsp;62nd&nbsp;Annual&nbsp;Meeting&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(Volume&nbsp;1:&nbsp;Long&nbsp;Papers)",<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;"2024",<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;"https://arxiv.org/pdf/2310.02409"<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://aclanthology.org/2024.acl-long.536",<br>
+&nbsp;&nbsp;pages&nbsp;=&nbsp;"9961--9975",<br>
 }<br>
 
     </div>
@@ -28,6 +29,9 @@ author_profile: true
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
 &nbsp;&nbsp;URL&nbsp;=&nbsp;{https://www.nature.com/articles/s41556-024-01453-4},<br>
+&nbsp;&nbsp;issue&nbsp;=&nbsp;{7},<br>
+&nbsp;&nbsp;volumn&nbsp;=&nbsp;{26},<br>
+&nbsp;&nbsp;pages&nbsp;=&nbsp;{1062--1076},<br>
 &nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
 }<br>
 
