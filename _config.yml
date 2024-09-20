@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guanghui's Homepage"
+title                    : "Guanghui Qin"
 title_separator          : "-"
 name                     : &name "Guanghui Qin"
-description              : &description "A PhD student at Johns Hopkins University"
+description              : &description "Researcher at Microsoft"
 url                      : https://gqin.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hiaoxui/hiaoxui.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Guanghui Qin"
   avatar           : "whyDoYouDownloadMyPhoto.jpg"
-  bio              : "NLP PhD student at Johns Hopkins University"
-  location         : "Baltimore, Maryland, US"
+  bio              : "Researcher at Microsoft"
+  location         : "Redmond, Washington, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ke8JkLgAAAAJ"
