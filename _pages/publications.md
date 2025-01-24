@@ -6,8 +6,19 @@ author_profile: true
 ---
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL25, findings)*, 2025. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
+    @inproceedings{hou2025CLERCDatasetLegal,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2406.17186},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Hou,&nbsp;Abe&nbsp;Bohan&nbsp;and&nbsp;Weller,&nbsp;Orion&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Yang,&nbsp;Eugene&nbsp;and&nbsp;Lawrie,&nbsp;Dawn&nbsp;and&nbsp;Holzenberger,&nbsp;Nils&nbsp;and&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;Annual&nbsp;Conference&nbsp;of&nbsp;the&nbsp;Nations&nbsp;of&nbsp;the&nbsp;Americas&nbsp;Chapter&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(NAACL)},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{{{CLERC}}:&nbsp;{{A&nbsp;Dataset}}&nbsp;for&nbsp;{{Legal&nbsp;Case&nbsp;Retrieval}}&nbsp;and&nbsp;{{Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}}}<br>
+}<br>
+
+    </div>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+<div id="1bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2024-dodo,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -22,8 +33,8 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
-<div id="1bib" style="display: none" class="bib">
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin\*, Dhiman Sankar Pal\*, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+<div id="2bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
@@ -36,8 +47,8 @@ author_profile: true
 }<br>
 
     </div>
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
-<div id="2bib" style="display: none" class="bib">
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+<div id="3bib" style="display: none" class="bib">
     @misc{rosset2024researchy,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
@@ -45,19 +56,6 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.17896},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
-}<br>
-
-    </div>
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *arXiv: 2406.17186*, 2024. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
-<div id="3bib" style="display: none" class="bib">
-    @misc{hou2024clercdatasetlegalcase,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Abe&nbsp;Bohan&nbsp;Hou&nbsp;and&nbsp;Orion&nbsp;Weller&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Eugene&nbsp;Yang&nbsp;and&nbsp;Dawn&nbsp;Lawrie&nbsp;and&nbsp;Nils&nbsp;Holzenberger&nbsp;and&nbsp;Andrew&nbsp;Blair-Stanek&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2406.17186},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2406.17186},<br>
 }<br>
 
     </div>
