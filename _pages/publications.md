@@ -13,7 +13,7 @@ author_profile: true
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2406.17186},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Hou,&nbsp;Abe&nbsp;Bohan&nbsp;and&nbsp;Weller,&nbsp;Orion&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Yang,&nbsp;Eugene&nbsp;and&nbsp;Lawrie,&nbsp;Dawn&nbsp;and&nbsp;Holzenberger,&nbsp;Nils&nbsp;and&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
 &nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;Annual&nbsp;Conference&nbsp;of&nbsp;the&nbsp;Nations&nbsp;of&nbsp;the&nbsp;Americas&nbsp;Chapter&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(NAACL)},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{{{CLERC}}:&nbsp;{{A&nbsp;Dataset}}&nbsp;for&nbsp;{{Legal&nbsp;Case&nbsp;Retrieval}}&nbsp;and&nbsp;{{Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}}}<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}<br>
 }<br>
 
     </div>

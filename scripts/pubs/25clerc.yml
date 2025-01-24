@@ -20,5 +20,5 @@ bib: |+2
     url = {https://doi.org/10.48550/arXiv.2406.17186},
     author = {Hou, Abe Bohan and Weller, Orion and Qin, Guanghui and Yang, Eugene and Lawrie, Dawn and Holzenberger, Nils and Blair-Stanek, Andrew and Van Durme, Benjamin},
     booktitle = {Proceedings of Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)},
-    title = {{{CLERC}}: {{A Dataset}} for {{Legal Case Retrieval}} and {{Retrieval-Augmented Analysis Generation}}}
+    title = {CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation}
   }
