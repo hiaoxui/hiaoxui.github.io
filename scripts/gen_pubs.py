@@ -26,10 +26,12 @@ def gen_venue(ve):
     short, *track = ve.split('-')
     if short not in venues:
         return ve
+    ve = venues[short]
+    short = short.replace('NAACL25', 'NAACL')
     if len(track) > 0:
-        return venues[short] + f' ({short}, {track[0]})'
+        return ve + f' ({short}, {track[0]})'
     else:
-        return venues[short] + f' ({short})'
+        return ve + f' ({short})'
 
 
 def author_list(authors):
