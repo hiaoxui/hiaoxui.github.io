@@ -8,10 +8,11 @@ author_profile: true
 
 - [Dynamic and Biphasic Regulation of Cell Migration by Ras](https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *bioRxiv*, 2025. <span>[<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
-    @online{linDynamicBiphasicRegulation2025,<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Dynamic&nbsp;and&nbsp;{{Biphasic&nbsp;Regulation}}&nbsp;of&nbsp;{{Cell&nbsp;Migration}}&nbsp;by&nbsp;{{Ras}}},<br>
+    @misc{linDynamicBiphasicRegulation2025,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Dynamic&nbsp;and&nbsp;Biphasic&nbsp;Regulation&nbsp;of&nbsp;Cell&nbsp;Migration&nbsp;by&nbsp;Ras},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Parajón,&nbsp;Eleana&nbsp;and&nbsp;Yuan,&nbsp;Qinling&nbsp;and&nbsp;Ye,&nbsp;Siyu&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Koyfman,&nbsp;Ariel&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A&nbsp;and&nbsp;Konstantopoulos,&nbsp;Konstantinos&nbsp;and&nbsp;Robinson,&nbsp;Douglas&nbsp;N&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N},<br>
 &nbsp;&nbsp;date&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1},<br>
 }<br>
 
     </div>
