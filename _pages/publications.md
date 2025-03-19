@@ -6,33 +6,18 @@ author_profile: true
 ---
 
 
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv: 2503.10337*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dynamic and Biphasic Regulation of Cell Migration by Ras](https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *bioRxiv*, 2025. <span>[<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
-    @misc{chari2025kvdistillnearlylosslesslearnable,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2503.10337},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2503.10337},<br>
+    @misc{linDynamicBiphasicRegulation2025,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Dynamic&nbsp;and&nbsp;Biphasic&nbsp;Regulation&nbsp;of&nbsp;Cell&nbsp;Migration&nbsp;by&nbsp;Ras},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Parajón,&nbsp;Eleana&nbsp;and&nbsp;Yuan,&nbsp;Qinling&nbsp;and&nbsp;Ye,&nbsp;Siyu&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Koyfman,&nbsp;Ariel&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A&nbsp;and&nbsp;Konstantopoulos,&nbsp;Konstantinos&nbsp;and&nbsp;Robinson,&nbsp;Douglas&nbsp;N&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N},<br>
+&nbsp;&nbsp;date&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1},<br>
 }<br>
-<br>
 
     </div>
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://arxiv.org/pdf/2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv: 2502.19655*, 2025. <span>[<a href="https://arxiv.org/pdf/2502.19655">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 <div id="1bib" style="display: none" class="bib">
-    @inproceedings{hou2025CLERCDatasetLegal,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2406.17186},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Hou,&nbsp;Abe&nbsp;Bohan&nbsp;and&nbsp;Weller,&nbsp;Orion&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Yang,&nbsp;Eugene&nbsp;and&nbsp;Lawrie,&nbsp;Dawn&nbsp;and&nbsp;Holzenberger,&nbsp;Nils&nbsp;and&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;Annual&nbsp;Conference&nbsp;of&nbsp;the&nbsp;Nations&nbsp;of&nbsp;the&nbsp;Americas&nbsp;Chapter&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(NAACL)},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}<br>
-}<br>
-
-    </div>
-- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://arxiv.org/pdf/2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv: 2502.19655*, 2025. <span>[<a href="https://arxiv.org/pdf/2502.19655">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
-<div id="2bib" style="display: none" class="bib">
     @misc{zhang2025medrlvremergingmedicalreasoning,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
@@ -44,14 +29,29 @@ author_profile: true
 }<br>
 
     </div>
-- [Dynamic and Biphasic Regulation of Cell Migration by Ras](https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *bioRxiv*, 2025. <span>[<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
-<div id="3bib" style="display: none" class="bib">
-    @misc{linDynamicBiphasicRegulation2025,<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Dynamic&nbsp;and&nbsp;Biphasic&nbsp;Regulation&nbsp;of&nbsp;Cell&nbsp;Migration&nbsp;by&nbsp;Ras},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Parajón,&nbsp;Eleana&nbsp;and&nbsp;Yuan,&nbsp;Qinling&nbsp;and&nbsp;Ye,&nbsp;Siyu&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Koyfman,&nbsp;Ariel&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A&nbsp;and&nbsp;Konstantopoulos,&nbsp;Konstantinos&nbsp;and&nbsp;Robinson,&nbsp;Douglas&nbsp;N&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N},<br>
-&nbsp;&nbsp;date&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1},<br>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+<div id="2bib" style="display: none" class="bib">
+    @inproceedings{hou2025CLERCDatasetLegal,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2406.17186},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Hou,&nbsp;Abe&nbsp;Bohan&nbsp;and&nbsp;Weller,&nbsp;Orion&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Yang,&nbsp;Eugene&nbsp;and&nbsp;Lawrie,&nbsp;Dawn&nbsp;and&nbsp;Holzenberger,&nbsp;Nils&nbsp;and&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;Annual&nbsp;Conference&nbsp;of&nbsp;the&nbsp;Nations&nbsp;of&nbsp;the&nbsp;Americas&nbsp;Chapter&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(NAACL)},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}<br>
 }<br>
+
+    </div>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv: 2503.10337*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+<div id="3bib" style="display: none" class="bib">
+    @misc{chari2025kvdistillnearlylosslesslearnable,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2503.10337},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2503.10337},<br>
+}<br>
+<br>
 
     </div>
 - [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
