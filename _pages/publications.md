@@ -40,8 +40,19 @@ author_profile: true
 }<br>
 
     </div>
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv: 2503.10337*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 <div id="3bib" style="display: none" class="bib">
+    @inproceedings{rosset2025researchy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.48550/arXiv.2402.17896"<br>
+}<br>
+
+    </div>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv: 2503.10337*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+<div id="4bib" style="display: none" class="bib">
     @misc{chari2025kvdistillnearlylosslesslearnable,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
@@ -54,8 +65,8 @@ author_profile: true
 <br>
 
     </div>
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
-<div id="4bib" style="display: none" class="bib">
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+<div id="5bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2024-dodo,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -70,8 +81,8 @@ author_profile: true
 }<br>
 
     </div>
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
-<div id="5bib" style="display: none" class="bib">
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+<div id="6bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
@@ -81,18 +92,6 @@ author_profile: true
 &nbsp;&nbsp;volumn&nbsp;=&nbsp;{26},<br>
 &nbsp;&nbsp;pages&nbsp;=&nbsp;{1062--1076},<br>
 &nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
-}<br>
-
-    </div>
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *arXiv: 2402.17896*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
-<div id="6bib" style="display: none" class="bib">
-    @misc{rosset2024researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.17896},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
 }<br>
 
     </div>
