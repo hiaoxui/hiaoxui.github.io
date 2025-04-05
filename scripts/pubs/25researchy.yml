@@ -1,0 +1,24 @@
+title: "Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents"
+priority: 9
+authors:
+  - Corby Rosset
+  - Ho-Lam Chung
+  - Guanghui Qin
+  - Ehtan C Chau
+  - Zhuo Feng
+  - Ahmed Hassan Awadallah
+  - Jennifer Neville
+  - Nikhil Rao
+venue: "SIGIR"
+year: 2025
+url: "https://doi.org/10.48550/arXiv.2402.17896"
+links:
+  data: "https://huggingface.co/datasets/corbyrosset/researchy_questions"
+bib: |+2
+  @inproceedings{rosset2025researchy,
+      title={Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents}, 
+      author={Corby Rosset and Ho-Lam Chung and Guanghui Qin and Ethan C. Chau and Zhuo Feng and Ahmed Awadallah and Jennifer Neville and Nikhil Rao},
+      year={2025},
+      booktitle={SIGIR},
+      url="https://doi.org/10.48550/arXiv.2402.17896"
+  }
