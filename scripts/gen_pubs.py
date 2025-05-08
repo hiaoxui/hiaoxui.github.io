@@ -71,9 +71,9 @@ def main():
     texts = [prefix]
     for pub in pubs:
         if pub['show']:
-            line = '{: .publication .selected}'
+            line = '{: .publication .selected}\n'
         else:
-            line = '{: .publication data-selected="false"}'
+            line = '{: .publication data-selected="false"}\n'
         if 'url' in pub:
             line += f'- [{pub["title"]}]({pub["url"]}). '
         else:
