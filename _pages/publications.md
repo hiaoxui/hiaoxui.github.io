@@ -206,7 +206,7 @@ author_profile: true
 
 
 - [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
+{: .publication .selected}
 
 
 
