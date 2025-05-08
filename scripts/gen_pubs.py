@@ -165,36 +165,11 @@ def main():
             line += '\n\n' + bib_div
 
         texts.append(line)
-    texts.append(script_text)
 
     to_dump = '\n'.join(texts)
 
     with open('_pages/publications.md', 'w') as fp:
         fp.write(to_dump)
-
-
-
-script_text = '''
-<script>
-/* 🧩 3) Tiny JS controller */
-const checkbox = document.getElementById('onlySelected');
-const allUnselected = document.querySelectorAll('.publication[data-selected="false"]');
-
-/* Reusable helper */
-function updateVisibility() {
-  const shouldHide = checkbox.checked;          // true → hide .unselected
-  allUnselected.forEach(ul => {
-    ul.style.display = shouldHide ? 'none' : '';  // show/hide
-  });
-}
-
-/* Run once on load (because the box starts checked) */
-updateVisibility();
-
-/* And whenever the user toggles it */
-checkbox.addEventListener('change', updateVisibility);
-</script>
-'''
 
 
 if __name__ == '__main__':

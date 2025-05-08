@@ -610,24 +610,3 @@ author_profile: true
     </div>
 
 
-
-
-<script>
-/* 🧩 3) Tiny JS controller */
-const checkbox = document.getElementById('onlySelected');
-const allUnselected = document.querySelectorAll('.publication[data-selected="false"]');
-
-/* Reusable helper */
-function updateVisibility() {
-  const shouldHide = checkbox.checked;          // true → hide .unselected
-  allUnselected.forEach(ul => {
-    ul.style.display = shouldHide ? 'none' : '';  // show/hide
-  });
-}
-
-/* Run once on load (because the box starts checked) */
-updateVisibility();
-
-/* And whenever the user toggles it */
-checkbox.addEventListener('change', updateVisibility);
-</script>
