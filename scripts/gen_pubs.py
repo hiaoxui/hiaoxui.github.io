@@ -96,7 +96,7 @@ def main():
 
         line += '<span>' + ' '.join(tag_elements) + '</span>'
         if bib_div is not None:
-            line += '\n' + bib_div
+            line += '\n\n' + bib_div
 
         texts.append(line)
 
