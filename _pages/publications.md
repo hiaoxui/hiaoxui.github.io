@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- [https://arxiv.org/abs/2505.03981](https://arxiv.org/pdf/2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv: 2505.03981*, 2025. <span>[<a href="https://arxiv.org/pdf/2505.03981">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/pdf/2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv: 2505.03981*, 2025. <span>[<a href="https://arxiv.org/pdf/2505.03981">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 <div id="0bib" style="display: none" class="bib">
     @misc{xreasoner25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
