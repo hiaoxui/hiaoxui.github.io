@@ -1,5 +1,6 @@
 title: "X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains"
-priority: 0
+show: false
+priority: 10
 authors:
   - Qianchu Liu*
   - Sheng Zhang*

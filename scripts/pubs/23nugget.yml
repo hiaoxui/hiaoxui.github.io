@@ -1,5 +1,6 @@
 title: "Nugget: Neural Agglomerative Embeddings of Text"
 priority: 10
+show: true
 authors:
   - Guanghui Qin
   - Benjamin Van Durme

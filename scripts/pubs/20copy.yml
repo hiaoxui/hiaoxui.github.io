@@ -1,4 +1,5 @@
 title: "CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models"
+show: false
 authors:
   - Abhinav Singh
   - Patrick Xia

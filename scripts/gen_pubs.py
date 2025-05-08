@@ -70,10 +70,14 @@ def main():
 
     texts = [prefix]
     for pub in pubs:
-        if 'url' in pub:
-            line = f'- [{pub["title"]}]({pub["url"]}). '
+        if pub['show']:
+            line = '{: .publication .selected}'
         else:
-            line = f'- <span style="text-decoration:underline">{pub["title"]}</span>. '
+            line = '{: .publication data-selected="false"}'
+        if 'url' in pub:
+            line += f'- [{pub["title"]}]({pub["url"]}). '
+        else:
+            line += f'- <span style="text-decoration:underline">{pub["title"]}</span>. '
         line += author_list(pub['authors']) + '. '
         line += f'In *{gen_venue(pub["venue"])}*, {pub["year"]}. '
         if 'remark' in pub:

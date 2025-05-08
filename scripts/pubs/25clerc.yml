@@ -1,5 +1,6 @@
 title: "CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation"
 priority: 6
+show: false
 authors:
   - Abe Bohan Hou
   - Orion Weller
