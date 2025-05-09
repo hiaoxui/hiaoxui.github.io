@@ -188,7 +188,7 @@ author_profile: true
 
 
 
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv: 2503.10337*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -288,7 +288,7 @@ author_profile: true
 
 
 
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *arXiv: 2402.01172*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *arXiv*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
