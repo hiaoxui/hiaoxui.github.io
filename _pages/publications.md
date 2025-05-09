@@ -90,7 +90,7 @@ author_profile: true
 
 
 
-- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://arxiv.org/pdf/2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv: 2502.19655*, 2025. <span>[<a href="https://arxiv.org/pdf/2502.19655">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://arxiv.org/pdf/2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://arxiv.org/pdf/2502.19655">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -114,7 +114,7 @@ author_profile: true
 
 
 
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://arxiv.org/pdf/2406.17186). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://arxiv.org/pdf/2406.17186">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/pdf/2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://arxiv.org/pdf/2505.03981">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -124,19 +124,19 @@ author_profile: true
 
 
 <div id="2bib" style="display: none" class="bib">
-    @inproceedings{hou2025CLERCDatasetLegal,<br>
+    @misc{xreasoner25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2406.17186},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Hou,&nbsp;Abe&nbsp;Bohan&nbsp;and&nbsp;Weller,&nbsp;Orion&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Yang,&nbsp;Eugene&nbsp;and&nbsp;Lawrie,&nbsp;Dawn&nbsp;and&nbsp;Holzenberger,&nbsp;Nils&nbsp;and&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;Annual&nbsp;Conference&nbsp;of&nbsp;the&nbsp;Nations&nbsp;of&nbsp;the&nbsp;Americas&nbsp;Chapter&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics&nbsp;(NAACL)},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{CLERC:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation}<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2505.03981},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
 }<br>
+<br>
 
     </div>
 
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://aclanthology.org/2025.findings-naacl.441/). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://aclanthology.org/2025.findings-naacl.441/">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -146,19 +146,27 @@ author_profile: true
 
 
 <div id="3bib" style="display: none" class="bib">
-    @inproceedings{rosset2025researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.48550/arXiv.2402.17896"<br>
+    @inproceedings{hou-etal-2025-clerc,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;"{CLERC}:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;{U}.&nbsp;{S}.&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation",<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;"Hou,&nbsp;Abe&nbsp;Bohan&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Weller,&nbsp;Orion&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Yang,&nbsp;Eugene&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Lawrie,&nbsp;Dawn&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Holzenberger,&nbsp;Nils&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Findings&nbsp;of&nbsp;the&nbsp;Association&nbsp;for&nbsp;Computational&nbsp;Linguistics:&nbsp;NAACL&nbsp;2025",<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;"2025",<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://aclanthology.org/2025.findings-naacl.441/",<br>
+&nbsp;&nbsp;pages&nbsp;=&nbsp;"7898--7913",<br>
 }<br>
 
     </div>
 
 
 
-- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://arxiv.org/pdf/2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv: 2505.03981*, 2025. <span>[<a href="https://arxiv.org/pdf/2505.03981">paper</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -168,13 +176,13 @@ author_profile: true
 
 
 <div id="4bib" style="display: none" class="bib">
-    @misc{xreasoner25,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2505.03981},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
+    @inproceedings{rosset2025researchy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.48550/arXiv.2402.17896"<br>
 }<br>
-<br>
 
     </div>
 

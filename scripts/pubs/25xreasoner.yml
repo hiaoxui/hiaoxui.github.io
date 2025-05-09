@@ -1,6 +1,6 @@
 title: "X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains"
 show: false
-priority: 10
+priority: 5
 authors:
   - Qianchu Liu*
   - Sheng Zhang*
@@ -14,7 +14,7 @@ authors:
   - Paul Vozila
   - Tristan Naumann
   - Hoifung Poon 
-venue: "arXiv: 2505.03981"
+venue: "arXiv"
 year: 2025
 url: "https://arxiv.org/pdf/2505.03981"
 bib: |+2
