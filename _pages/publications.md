@@ -499,7 +499,7 @@ author_profile: true
 
 
 
-- [CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models](https://dx.doi.org/10.18653/v1/2020.spnlp-1.2). Abhinav Singh, Patrick Xia, **Guanghui Qin**, Mahsa Yarmohammadi, and Benjamin Van Durme. In *Fourth Workshop on Structured Prediction for NLP*, 2020. <span>[<a href="https://dx.doi.org/10.18653/v1/2020.spnlp-1.2">paper</a>] [<a href="https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model">video</a>] [<a href="https://github.com/abhinonymous/copynext">code</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
+- [CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models](https://aclanthology.org/2020.spnlp-1.2.pdf). Abhinav Singh, Patrick Xia, **Guanghui Qin**, Mahsa Yarmohammadi, and Benjamin Van Durme. In *Fourth Workshop on Structured Prediction for NLP*, 2020. <span>[<a href="https://aclanthology.org/2020.spnlp-1.2.pdf">paper</a>] [<a href="https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model">video</a>] [<a href="https://github.com/abhinonymous/copynext">code</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -521,7 +521,7 @@ author_profile: true
 &nbsp;&nbsp;year&nbsp;=&nbsp;"2020",<br>
 &nbsp;&nbsp;address&nbsp;=&nbsp;"Online",<br>
 &nbsp;&nbsp;publisher&nbsp;=&nbsp;"Association&nbsp;for&nbsp;Computational&nbsp;Linguistics",<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;"https://dx.doi.org/10.18653/v1/2020.spnlp-1.2",<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://aclanthology.org/2020.spnlp-1.2.pdf",<br>
 &nbsp;&nbsp;doi&nbsp;=&nbsp;"10.18653/v1/2020.spnlp-1.2",<br>
 &nbsp;&nbsp;pages&nbsp;=&nbsp;"11--16",<br>
 }<br>

@@ -8,7 +8,7 @@ authors:
   - Benjamin Van Durme
 venue: Fourth Workshop on Structured Prediction for NLP
 year: 2020
-url: "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2"
+url: "https://aclanthology.org/2020.spnlp-1.2.pdf"
 bib: |+2
   @inproceedings{singh-etal-2020-copynext,
     title = "{C}opy{N}ext: Explicit Span Copying and Alignment in Sequence to Sequence Models",
@@ -22,7 +22,7 @@ bib: |+2
     year = "2020",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://dx.doi.org/10.18653/v1/2020.spnlp-1.2",
+    url = "https://aclanthology.org/2020.spnlp-1.2.pdf",
     doi = "10.18653/v1/2020.spnlp-1.2",
     pages = "11--16",
   }
