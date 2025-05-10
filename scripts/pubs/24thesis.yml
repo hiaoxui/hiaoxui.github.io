@@ -1,0 +1,17 @@
+title: "Towards Efficient Long-Context Natural Language Processing"
+show: false
+priority: 15
+authors:
+  - Guanghui Qin
+venue: "Johns Hopkins University Library (thesis)"
+year: 2024
+url: "https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1"
+bib: |
+  @thesis{thesis24,
+    year = {2024},
+    url = {https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1},
+    author = {Qin, Guanghui},
+    type = {phdthesis},
+    title = {Towards {{Efficient Long-Context Natural Language Processing}}},
+    institution = {Johns Hopkins University}
+  }
