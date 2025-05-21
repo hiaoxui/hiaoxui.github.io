@@ -166,7 +166,7 @@ author_profile: true
 
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -188,7 +188,7 @@ author_profile: true
 
 
 
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -198,6 +198,28 @@ author_profile: true
 
 
 <div id="5bib" style="display: none" class="bib">
+    @inproceedings{star25,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2402.01172},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Tan,&nbsp;Weiting&nbsp;and&nbsp;Chen,&nbsp;Yunmo&nbsp;and&nbsp;Chen,&nbsp;Tongfei&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Xu,&nbsp;Haoran&nbsp;and&nbsp;Zhang,&nbsp;Heidi&nbsp;C.&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin&nbsp;and&nbsp;Koehn,&nbsp;Philipp},<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Spoken&nbsp;Language&nbsp;Translation&nbsp;(IWSLT)},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Streaming&nbsp;{{Sequence&nbsp;Transduction}}&nbsp;through&nbsp;{{Dynamic&nbsp;Compression}}}<br>
+}<br>
+
+    </div>
+
+
+
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://arxiv.org/pdf/2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://arxiv.org/pdf/2503.10337">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
+
+
+
+
+
+
+
+<div id="6bib" style="display: none" class="bib">
     @misc{chari2025kvdistillnearlylosslesslearnable,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
@@ -213,7 +235,7 @@ author_profile: true
 
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://aclanthology.org/2024.acl-long.536/). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://aclanthology.org/2024.acl-long.536/">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -222,7 +244,7 @@ author_profile: true
 
 
 
-<div id="6bib" style="display: none" class="bib">
+<div id="7bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2024-dodo,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -240,7 +262,7 @@ author_profile: true
 
 
 
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://www.nature.com/articles/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://www.nature.com/articles/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -249,7 +271,7 @@ author_profile: true
 
 
 
-<div id="7bib" style="display: none" class="bib">
+<div id="8bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
@@ -265,30 +287,7 @@ author_profile: true
 
 
 
-- [Towards Efficient Long-Context Natural Language Processing](https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1). **Guanghui Qin**. In *Johns Hopkins University Library (thesis)*, 2024. <span>[<a href="https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1">paper</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="8bib" style="display: none" class="bib">
-    @thesis{thesis24,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Qin,&nbsp;Guanghui},<br>
-&nbsp;&nbsp;type&nbsp;=&nbsp;{phdthesis},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Towards&nbsp;{{Efficient&nbsp;Long-Context&nbsp;Natural&nbsp;Language&nbsp;Processing}}},<br>
-&nbsp;&nbsp;institution&nbsp;=&nbsp;{Johns&nbsp;Hopkins&nbsp;University}<br>
-}<br>
-
-    </div>
-
-
-
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *arXiv*, 2024. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [Towards Efficient Long-Context Natural Language Processing](https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1). **Guanghui Qin**. In *Johns Hopkins University Library (thesis)*, 2024. <span>[<a href="https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -298,13 +297,13 @@ author_profile: true
 
 
 <div id="9bib" style="display: none" class="bib">
-    @misc{tan2024streaming,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Streaming&nbsp;Sequence&nbsp;Transduction&nbsp;through&nbsp;Dynamic&nbsp;Compression},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Weiting&nbsp;Tan&nbsp;and&nbsp;Yunmo&nbsp;Chen&nbsp;and&nbsp;Tongfei&nbsp;Chen&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Haoran&nbsp;Xu&nbsp;and&nbsp;Heidi&nbsp;C.&nbsp;Zhang&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme&nbsp;and&nbsp;Philipp&nbsp;Koehn},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2024},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2402.01172},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL}<br>
+    @thesis{thesis24,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Qin,&nbsp;Guanghui},<br>
+&nbsp;&nbsp;type&nbsp;=&nbsp;{phdthesis},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Towards&nbsp;{{Efficient&nbsp;Long-Context&nbsp;Natural&nbsp;Language&nbsp;Processing}}},<br>
+&nbsp;&nbsp;institution&nbsp;=&nbsp;{Johns&nbsp;Hopkins&nbsp;University}<br>
 }<br>
 
     </div>

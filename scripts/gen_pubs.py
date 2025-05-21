@@ -82,6 +82,7 @@ venues = {
     'NAACL25': 'Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics',
     'TACL': 'Transactions of the Association for Computational Linguistics',
     'ACL': 'Annual Meeting of the Association for Computational Linguistics',
+    'IWSLT': 'International Conference on Spoken Language Translation',
 }
 
 
