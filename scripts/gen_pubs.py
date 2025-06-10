@@ -83,6 +83,7 @@ venues = {
     'TACL': 'Transactions of the Association for Computational Linguistics',
     'ACL': 'Annual Meeting of the Association for Computational Linguistics',
     'IWSLT': 'International Conference on Spoken Language Translation',
+    'PNAS': 'Proceedings of the National Academy of Sciences of the United States of America',
 }
 
 

@@ -14,14 +14,15 @@ authors:
   - Konstantinos Konstantopoulos
   - Douglas N Robinson
   - Peter N Devreotes
-venue: "bioRxiv"
+venue: "PNAS"
 year: 2025
 url: "https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1"
 bib: |
-  @misc{linDynamicBiphasicRegulation2025,
-    title = {Dynamic and Biphasic Regulation of Cell Migration by Ras},
+  @article{dynamic25,
+    year = {2025},
+    url = {https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1.full.pdf},
     author = {Lin, Yiyan and Parajón, Eleana and Yuan, Qinling and Ye, Siyu and Qin, Guanghui and Deng, Yu and Borleis, Jane and Koyfman, Ariel and Iglesias, Pablo A and Konstantopoulos, Konstantinos and Robinson, Douglas N and Devreotes, Peter N},
-    date = {2025},
-    url = {https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1},
+    journal = {Proceedings of the National Academy of Sciences of the United States of America (PNAS)},
+    title = {Dynamic and {{Biphasic Regulation}} of {{Cell Migration}} by {{Ras}}}
   }
 
