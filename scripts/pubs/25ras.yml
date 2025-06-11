@@ -17,6 +17,8 @@ authors:
 venue: "PNAS"
 year: 2025
 url: "https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1"
+links:
+  biorxiv: "https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1"
 bib: |
   @article{dynamic25,
     year = {2025},

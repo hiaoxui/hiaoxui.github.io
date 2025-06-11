@@ -69,7 +69,7 @@ author_profile: true
 
 
 
-- [Dynamic and Biphasic Regulation of Cell Migration by Ras](https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Dynamic and Biphasic Regulation of Cell Migration by Ras](https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
