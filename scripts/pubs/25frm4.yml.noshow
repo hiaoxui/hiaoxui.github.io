@@ -1,0 +1,27 @@
+title: "ERM proteins regulate the shape and number of Endoplasmic Reticulum-Plasma Membrane Junctions in neurons"
+show: false
+priority: 10
+authors:
+  - Huichao Deng
+  - Jinbo Cheng
+  - Richard D Fetter
+  - Guanghui Qin
+  - Jianxiu Zhang
+  - Xing Liang
+  - Caitlin Taylor
+  - Mingjie Zhang
+  - Xiandeng Wu
+  - Kang Shen
+venue: "bioRxiv"
+year: 2025
+url: "https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf"
+links:
+  biorxiv: "https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf"
+bib: |
+  @misc{deng25frm4,
+    year = {2025},
+    url = {https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf},
+    author = {Deng, Huichao and Cheng, Jinbo and Fetter, Richard D. and Qin, Guanghui and Zhang, Jianxiu and Liang, Xing and Taylor, Caitlin and Zhang, Mingjie and Wu, Xiandeng and Shen, Kang},
+    title = {ERM proteins regulate the shape and number of Endoplasmic Reticulum–Plasma Membrane Junctions in neurons}
+  }
+
