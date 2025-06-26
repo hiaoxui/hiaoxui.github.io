@@ -12,7 +12,7 @@ authors:
   - Benjamin Van Durme
 venue: "NAACL25-findings"
 year: 2025
-url: "https://aclanthology.org/2025.findings-naacl.441/"
+url: "https://doi.org/10.18653/v1/2025.findings-naacl.441"
 links:
   data: "https://huggingface.co/datasets/jhu-clsp/CLERC"
 bib: |+2
@@ -28,6 +28,6 @@ bib: |+2
       Van Durme, Benjamin",
     booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
     year = "2025",
-    url = "https://aclanthology.org/2025.findings-naacl.441/",
+    url = "https://doi.org/10.18653/v1/2025.findings-naacl.441",
     pages = "7898--7913",
   }

@@ -16,7 +16,7 @@ authors:
   - Benjamin Van Durme
 venue: EMNLP-oral
 year: 2021
-url: "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149"
+url: "https://doi.org/10.18653/v1/2021.emnlp-main.149"
 bib: |+2
   @inproceedings{yarmohammadi-etal-2021-everything,
     title = "Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction",
@@ -34,11 +34,7 @@ bib: |+2
       Dredze, Mark  and
       Van Durme, Benjamin",
     booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
-    month = nov,
-    year = "2021",
-    address = "Online and Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-    url = "https://dx.doi.org/10.18653/v1/2021.emnlp-main.149",
+    url = "https://doi.org/10.18653/v1/2021.emnlp-main.149",
     doi = "10.18653/v1/2021.emnlp-main.149",
     pages = "1950--1967",
   }

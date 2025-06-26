@@ -14,13 +14,13 @@ authors:
   - Kang Shen
 venue: "bioRxiv"
 year: 2025
-url: "https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf"
+url: "https://doi.org/10.1101/2025.06.18.660273"
 links:
-  biorxiv: "https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf"
+  biorxiv: "https://doi.org/10.1101/2025.06.18.660273"
 bib: |
   @misc{deng25frm4,
     year = {2025},
-    url = {https://www.biorxiv.org/content/10.1101/2025.06.18.660273v1.full.pdf},
+    url = {https://doi.org/10.1101/2025.06.18.660273},
     author = {Deng, Huichao and Cheng, Jinbo and Fetter, Richard D. and Qin, Guanghui and Zhang, Jianxiu and Liang, Xing and Taylor, Caitlin and Zhang, Mingjie and Wu, Xiandeng and Shen, Kang},
     title = {ERM proteins regulate the shape and number of Endoplasmic Reticulum–Plasma Membrane Junctions in neurons}
   }

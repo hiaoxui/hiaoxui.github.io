@@ -14,7 +14,7 @@ authors:
   - Benjamin Van Durme
 venue: EACL-demo
 year: 2021
-url: "https://dx.doi.org/10.18653/v1/2021.eacl-demos.19"
+url: "https://doi.org/10.18653/v1/2021.eacl-demos.19"
 bib: |+2
   @inproceedings{xia-etal-2021-lome,
     title = "{LOME}: Large Ontology Multilingual Extraction",
@@ -33,7 +33,7 @@ bib: |+2
     year = "2021",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://dx.doi.org/10.18653/v1/2021.eacl-demos.19",
+    url = "https://doi.org/10.18653/v1/2021.eacl-demos.19",
     doi = "10.18653/v1/2021.eacl-demos.19",
     pages = "149--159",
   }

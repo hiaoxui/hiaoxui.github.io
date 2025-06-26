@@ -9,7 +9,7 @@ authors:
   - Benjamin Van Durme
 venue: ACL-oral
 year: 2024
-url: "https://aclanthology.org/2024.acl-long.536/"
+url: "https://doi.org/10.18653/v1/2024.acl-long.536"
 bib: |+2
   @inproceedings{qin-etal-2024-dodo,
     title = "Dodo: Dynamic Contextual Compression for Decoder-only {LM}s",
@@ -20,7 +20,7 @@ bib: |+2
       Van Durme, Benjamin",
     booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     year = "2024",
-    url = "https://aclanthology.org/2024.acl-long.536",
+    url = "https://doi.org/10.18653/v1/2024.acl-long.536",
     pages = "9961--9975",
   }
 links:

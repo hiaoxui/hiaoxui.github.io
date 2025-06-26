@@ -7,7 +7,7 @@ authors:
   - Benjamin Van Durme
 venue: EACL-oral
 year: 2023
-url: "https://aclanthology.org/2023.eacl-main.273.pdf"
+url: "https://doi.org/10.18653/v1/2023.eacl-main.273"
 bib: |+2
   @inproceedings{qin-etal-2023-nlp,
     title = "The {NLP} Task Effectiveness of Long-Range Transformers",
@@ -16,7 +16,7 @@ bib: |+2
     year = "2023",
     address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.eacl-main.273",
+    url = "https://doi.org/10.18653/v1/2023.eacl-main.273",
     doi = "10.18653/v1/2023.eacl-main.273",
     pages = "3774--3790",
   }

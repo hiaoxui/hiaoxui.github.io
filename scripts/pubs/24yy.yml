@@ -13,7 +13,7 @@ authors:
   - Peter N Devreotes
 venue: "Nature Cell Biology"
 year: 2024
-url: "https://www.nature.com/articles/s41556-024-01453-4"
+url: "https://doi.org/10.1038/s41556-024-01453-4"
 links:
   biorxiv: "https://www.biorxiv.org/content/10.1101/2023.08.30.555648"
 bib: |
@@ -21,7 +21,7 @@ bib: |
     author = {Lin, Yiyan and Pal, Dhiman Sankar and Banerjee, Parijat and Banerjee, Tatsat and Qin, Guanghui and Deng, Yu and Borleis, Jane and Iglesias, Pablo A. and Devreotes, Peter N.},
     title = {Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration},
     year = {2024},
-    URL = {https://www.nature.com/articles/s41556-024-01453-4},
+    URL = {https://doi.org/10.1038/s41556-024-01453-4},
     issue = {7},
     volumn = {26},
     pages = {1062--1076},

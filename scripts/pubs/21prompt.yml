@@ -6,7 +6,7 @@ authors:
   - Jason Eisner
 venue: "NAACL-short"
 year: 2021
-url: "https://dx.doi.org/10.18653/v1/2021.naacl-main.410"
+url: "https://doi.org/10.18653/v1/2021.naacl-main.410"
 bib: |+2
   @inproceedings{qin-eisner-2021-learning,
     title = "Learning How to Ask: Querying {LM}s with Mixtures of Soft Prompts",
@@ -15,7 +15,7 @@ bib: |+2
     year = "2021",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://dx.doi.org/10.18653/v1/2021.naacl-main.410",
+    url = "https://doi.org/10.18653/v1/2021.naacl-main.410",
     doi = "10.18653/v1/2021.naacl-main.410",
     pages = "5203--5212",
   }

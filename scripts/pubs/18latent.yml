@@ -9,7 +9,7 @@ authors:
   - Chin-Yew Lin
 venue: EMNLP-oral
 year: 2018
-url: "https://dx.doi.org/10.18653/v1/D18-1411"
+url: "https://doi.org/10.18653/v1/D18-1411"
 bib: |+2
   @inproceedings{qin-etal-2018-learning,
     title = "Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data",
@@ -19,12 +19,8 @@ bib: |+2
       Wang, Jinpeng  and
       Lin, Chin-Yew",
     booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
-    month = oct # "-" # nov,
     year = "2018",
-    address = "Brussels, Belgium",
-    publisher = "Association for Computational Linguistics",
-    url = "https://dx.doi.org/10.18653/v1/D18-1411",
-    doi = "10.18653/v1/D18-1411",
+    url = "https://doi.org/10.18653/v1/D18-1411",
     pages = "3761--3771",
   }
 links:

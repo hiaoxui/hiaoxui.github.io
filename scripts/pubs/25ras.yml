@@ -16,13 +16,13 @@ authors:
   - Peter N Devreotes
 venue: "PNAS"
 year: 2025
-url: "https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1"
+url: "https://doi.org/10.1101/2025.02.13.638204"
 links:
   biorxiv: "https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1"
 bib: |
   @article{dynamic25,
     year = {2025},
-    url = {https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1.full.pdf},
+    url = {https://doi.org/10.1101/2025.02.13.638204},
     author = {Lin, Yiyan and Parajón, Eleana and Yuan, Qinling and Ye, Siyu and Qin, Guanghui and Deng, Yu and Borleis, Jane and Koyfman, Ariel and Iglesias, Pablo A and Konstantopoulos, Konstantinos and Robinson, Douglas N and Devreotes, Peter N},
     journal = {Proceedings of the National Academy of Sciences of the United States of America (PNAS)},
     title = {Dynamic and {{Biphasic Regulation}} of {{Cell Migration}} by {{Ras}}}
