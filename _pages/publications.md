@@ -91,7 +91,7 @@ author_profile: true
 
 
 
-- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -101,18 +101,19 @@ author_profile: true
 
 
 <div id="1bib" style="display: none" class="bib">
-    @misc{zhang2025medrlvremergingmedicalreasoning,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2502.19655},<br>
+    @misc{xreasoner25,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
 }<br>
+<br>
 
     </div>
 
 
 
-- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -122,13 +123,12 @@ author_profile: true
 
 
 <div id="2bib" style="display: none" class="bib">
-    @misc{xreasoner25,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
+    @misc{zhang2025medrlvremergingmedicalreasoning,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2502.19655},<br>
 }<br>
-<br>
 
     </div>
 
@@ -164,7 +164,7 @@ author_profile: true
 
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents](https://doi.org/10.48550/arXiv.2402.17896). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan C Chau, Zhuo Feng, Ahmed Hassan Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.17896">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research](https://doi.org/10.1145/3726302.3730275). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.1145/3726302.3730275">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -179,8 +179,9 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.48550/arXiv.2402.17896"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.1145/3726302.3730275"<br>
 }<br>
+<br>
 
     </div>
 
@@ -207,7 +208,7 @@ author_profile: true
 
 
 
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -217,28 +218,6 @@ author_profile: true
 
 
 <div id="6bib" style="display: none" class="bib">
-    @inproceedings{star25,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2402.01172},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Tan,&nbsp;Weiting&nbsp;and&nbsp;Chen,&nbsp;Yunmo&nbsp;and&nbsp;Chen,&nbsp;Tongfei&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Xu,&nbsp;Haoran&nbsp;and&nbsp;Zhang,&nbsp;Heidi&nbsp;C.&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin&nbsp;and&nbsp;Koehn,&nbsp;Philipp},<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Spoken&nbsp;Language&nbsp;Translation&nbsp;(IWSLT)},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{Streaming&nbsp;{{Sequence&nbsp;Transduction}}&nbsp;through&nbsp;{{Dynamic&nbsp;Compression}}}<br>
-}<br>
-
-    </div>
-
-
-
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="7bib" style="display: none" class="bib">
     @misc{chari2025kvdistillnearlylosslesslearnable,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
@@ -249,6 +228,28 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2505.03981},<br>
 }<br>
 <br>
+
+    </div>
+
+
+
+- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
+
+
+
+
+
+
+
+<div id="7bib" style="display: none" class="bib">
+    @inproceedings{star25,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2402.01172},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Tan,&nbsp;Weiting&nbsp;and&nbsp;Chen,&nbsp;Yunmo&nbsp;and&nbsp;Chen,&nbsp;Tongfei&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Xu,&nbsp;Haoran&nbsp;and&nbsp;Zhang,&nbsp;Heidi&nbsp;C.&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin&nbsp;and&nbsp;Koehn,&nbsp;Philipp},<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Spoken&nbsp;Language&nbsp;Translation&nbsp;(IWSLT)},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Streaming&nbsp;{{Sequence&nbsp;Transduction}}&nbsp;through&nbsp;{{Dynamic&nbsp;Compression}}}<br>
+}<br>
 
     </div>
 
