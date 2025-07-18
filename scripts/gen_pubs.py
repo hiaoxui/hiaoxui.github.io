@@ -77,9 +77,9 @@ div_id = 0
 venues = {
     'EACL': 'Annual Conference of the European Chapter of the Association for Computational Linguistics',
     'ICML': 'International Conference on Machine Learning',
-    'EMNLP': 'Conference on Empirical Methods in Natural Language Processing',
-    'NAACL': 'Annual Conference of the North American Chapter of the Association for Computational Linguistics',
-    'NAACL25': 'Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics',
+    'EMNLP': 'Empirical Methods in Natural Language Processing',
+    'NAACL': 'North American Chapter of the Association for Computational Linguistics',
+    'NAACL25': 'Nations of the Americas Chapter of the Association for Computational Linguistics',
     'TACL': 'Transactions of the Association for Computational Linguistics',
     'ACL': 'Annual Meeting of the Association for Computational Linguistics',
     'IWSLT': 'International Conference on Spoken Language Translation',

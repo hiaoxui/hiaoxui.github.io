@@ -134,7 +134,7 @@ author_profile: true
 
 
 
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -383,7 +383,7 @@ author_profile: true
 
 
 
-- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://doi.org/10.18653/v1/2021.naacl-main.410). **Guanghui Qin** and Jason Eisner. In *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL, short)*, 2021. <span style="color:red">**Best Short Paper**</span>.<span>[<a href="https://doi.org/10.18653/v1/2021.naacl-main.410">paper</a>] [<a href="/files/21papers/prompt_poster.pdf">poster</a>] [<a href="/files/21papers/prompt_slides.pptx">slides</a>] [<a href="https://github.com/hiaoxui/soft-prompts">code</a>] [<a href="https://twitter.com/adveisner/status/1402681187018084354?lang=en">twitter</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
+- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://doi.org/10.18653/v1/2021.naacl-main.410). **Guanghui Qin** and Jason Eisner. In *North American Chapter of the Association for Computational Linguistics (NAACL, short)*, 2021. <span style="color:red">**Best Short Paper**</span>.<span>[<a href="https://doi.org/10.18653/v1/2021.naacl-main.410">paper</a>] [<a href="/files/21papers/prompt_poster.pdf">poster</a>] [<a href="/files/21papers/prompt_slides.pptx">slides</a>] [<a href="https://github.com/hiaoxui/soft-prompts">code</a>] [<a href="https://twitter.com/adveisner/status/1402681187018084354?lang=en">twitter</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -472,7 +472,7 @@ author_profile: true
 
 
 
-- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. In *Conference on Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
+- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -590,7 +590,7 @@ author_profile: true
 
 
 
-- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. In *Conference on Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('20bib')">bibtex</a>]</span>
+- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('20bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -617,7 +617,7 @@ author_profile: true
 
 
 
-- [Data2Text Studio: Automated Text Generation from Structured Data](https://doi.org/10.18653/v1/D18-2003). Longxu Dou, **Guanghui Qin**, Jinpeng Wang, Jin-Ge Yao, and Chin-Yew Lin. In *Conference on Empirical Methods in Natural Language Processing (EMNLP, demo)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-2003">paper</a>] [<a href="javascript:toggleDiv('21bib')">bibtex</a>]</span>
+- [Data2Text Studio: Automated Text Generation from Structured Data](https://doi.org/10.18653/v1/D18-2003). Longxu Dou, **Guanghui Qin**, Jinpeng Wang, Jin-Ge Yao, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, demo)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-2003">paper</a>] [<a href="javascript:toggleDiv('21bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
