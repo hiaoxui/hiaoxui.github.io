@@ -236,7 +236,7 @@ author_profile: true
 
 
 
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.48550/arXiv.2402.01172). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2402.01172">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
+- [Streaming Sequence Transduction through Dynamic Compression](https://aclanthology.org/2025.iwslt-1.1.pdf). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://aclanthology.org/2025.iwslt-1.1.pdf">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -248,9 +248,9 @@ author_profile: true
 <div id="7bib" style="display: none" class="bib">
     @inproceedings{star25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{http://arxiv.org/abs/2402.01172},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://aclanthology.org/2025.iwslt-1.1.pdf},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Tan,&nbsp;Weiting&nbsp;and&nbsp;Chen,&nbsp;Yunmo&nbsp;and&nbsp;Chen,&nbsp;Tongfei&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Xu,&nbsp;Haoran&nbsp;and&nbsp;Zhang,&nbsp;Heidi&nbsp;C.&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin&nbsp;and&nbsp;Koehn,&nbsp;Philipp},<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{Proceedings&nbsp;of&nbsp;International&nbsp;Conference&nbsp;on&nbsp;Spoken&nbsp;Language&nbsp;Translation&nbsp;(IWSLT)},<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;{International&nbsp;Conference&nbsp;on&nbsp;Spoken&nbsp;Language&nbsp;Translation&nbsp;(IWSLT)},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Streaming&nbsp;{{Sequence&nbsp;Transduction}}&nbsp;through&nbsp;{{Dynamic&nbsp;Compression}}}<br>
 }<br>
 
