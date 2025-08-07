@@ -12,12 +12,13 @@ authors:
   - Philipp Koehn
 venue: "IWSLT"
 year: 2025
-url: "https://aclanthology.org/2025.iwslt-1.1.pdf"
+url: "https://doi.org/10.18653/v1/2025.iwslt-1.1"
 bib: |+2
   @inproceedings{star25,
     year = {2025},
     url = {https://aclanthology.org/2025.iwslt-1.1.pdf},
     author = {Tan, Weiting and Chen, Yunmo and Chen, Tongfei and Qin, Guanghui and Xu, Haoran and Zhang, Heidi C. and Van Durme, Benjamin and Koehn, Philipp},
     booktitle = {International Conference on Spoken Language Translation (IWSLT)},
-    title = {Streaming {{Sequence Transduction}} through {{Dynamic Compression}}}
+    title = {Streaming {{Sequence Transduction}} through {{Dynamic Compression}}},
+    doi = "10.18653/v1/2025.iwslt-1.1",
   }
