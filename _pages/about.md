@@ -29,7 +29,7 @@ In the past, I worked on efficient language modeling (thesis topic), information
 
 ## Walless
 
-I am also known as *hiaoxui*, the founder of [WallessPKU](https://wallesspku.org/en/about/).
+I am also known as *hiaoxui*, the founder of [WallessPKU](https://wallesspku.org/en/).
 Walless is a platform that helps Chinese students to circumvent [the Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall).
 For over 8 years, I have been developing and funding this non-profit project that benefits tens of thousands of people to access the internet without censorship.
 
