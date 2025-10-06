@@ -1,0 +1,46 @@
+title: "The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks"
+show: false
+priority: 21
+authors:
+  - Yu Gu
+  - Jingjing Fu
+  - Xiaodong Liu
+  - Jeya Maria Jose Valanarasu
+  - Noel CF Codella
+  - Reuben Tan
+  - Qianchu Liu
+  - Ying Jin
+  - Sheng Zhang
+  - Jinyu Wang
+  - Rui Wang
+  - Lei Song
+  - Guanghui Qin
+  - Naoto Usuyama
+  - Cliff Wong
+  - Hao Cheng
+  - Hohin Lee
+  - Praneeth Sanapathi
+  - Sarah Hilado
+  - Jiang Bian
+  - Javier Alvarez-Valle
+  - Mu Wei
+  - Khalil Malik
+  - Jianfeng Gao
+  - Eric Horvitz
+  - Matthew P Lungren
+  - Hoifung Poon
+  - Paul Vozila
+venue: "arXiv"
+year: 2025
+url: "https://doi.org/10.48550/arXiv.2509.18234"
+bib: |+2
+  @misc{gu2025illusionreadinessstresstesting,
+    title={The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks},
+    author={Yu Gu and Jingjing Fu and Xiaodong Liu and Jeya Maria Jose Valanarasu and Noel CF Codella and Reuben Tan and Qianchu Liu and Ying Jin and Sheng Zhang and Jinyu Wang and Rui Wang and Lei Song and Guanghui Qin and Naoto Usuyama and Cliff Wong and Hao Cheng and Hohin Lee and Praneeth Sanapathi and Sarah Hilado and Jiang Bian and Javier Alvarez-Valle and Mu Wei and Khalil Malik and Jianfeng Gao and Eric Horvitz and Matthew P Lungren and Hoifung Poon and Paul Vozila},
+    year={2025},
+    eprint={2509.18234},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI},
+    url={https://arxiv.org/abs/2509.18234},
+  }
+
