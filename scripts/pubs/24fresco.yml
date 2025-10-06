@@ -1,6 +1,6 @@
 title: "L-FRESco: Factual Recall Evaluation Score for Legal Analysis Generation"
 show: true
-priority: 1
+priority: 10
 authors:
   - Abe Hou
   - Zhengping Jiang

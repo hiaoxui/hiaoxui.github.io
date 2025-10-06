@@ -211,7 +211,7 @@ author_profile: true
 
 
 
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -221,14 +221,14 @@ author_profile: true
 
 
 <div id="6bib" style="display: none" class="bib">
-    @misc{chari2025kvdistillnearlylosslesslearnable,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2503.10337},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2505.03981},<br>
+    @misc{gu2025illusionreadinessstresstesting,<br>
+&nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
+&nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
+&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;eprint={2509.18234},<br>
+&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;primaryClass={cs.AI},<br>
+&nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
 }<br>
 <br>
 
@@ -259,7 +259,7 @@ author_profile: true
 
 
 
-- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -269,14 +269,14 @@ author_profile: true
 
 
 <div id="8bib" style="display: none" class="bib">
-    @misc{gu2025illusionreadinessstresstesting,<br>
-&nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
-&nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
-&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;eprint={2509.18234},<br>
-&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;primaryClass={cs.AI},<br>
-&nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
+    @misc{chari2025kvdistillnearlylosslesslearnable,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2503.10337},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2505.03981},<br>
 }<br>
 <br>
 
@@ -284,7 +284,7 @@ author_profile: true
 
 
 
-- [L-FRESco: Factual Recall Evaluation Score for Legal Analysis Generation](https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf). Abe Hou, Zhengping Jiang, **Guanghui Qin**, Orion Weller, Andrew Blair-Stanek, and Benjamin Van Durme. In *Workshop on Generative AI and Law*, 2024. <span>[<a href="https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -294,34 +294,6 @@ author_profile: true
 
 
 <div id="9bib" style="display: none" class="bib">
-    @inproceedings{hou-etal-2024-lfresco,<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;"L-FRESco:&nbsp;Factual&nbsp;Recall&nbsp;Evaluation&nbsp;Score&nbsp;for&nbsp;Legal&nbsp;Analysis&nbsp;Generation",<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Hou,&nbsp;Abe&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Jiang,&nbsp;Zhengping&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Weller,&nbsp;Orion&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;&nbsp;and<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
-&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;Workshop&nbsp;on&nbsp;Generative&nbsp;AI&nbsp;and&nbsp;Law",<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;"2024",<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;"https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf",<br>
-}<br>
-
-    </div>
-
-
-
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
-{: .publication .selected}
-
-
-
-
-
-
-
-<div id="10bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2024-dodo,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -339,7 +311,7 @@ author_profile: true
 
 
 
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1038/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1038/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('11bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1038/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1038/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -348,7 +320,7 @@ author_profile: true
 
 
 
-<div id="11bib" style="display: none" class="bib">
+<div id="10bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
@@ -358,6 +330,34 @@ author_profile: true
 &nbsp;&nbsp;volumn&nbsp;=&nbsp;{26},<br>
 &nbsp;&nbsp;pages&nbsp;=&nbsp;{1062--1076},<br>
 &nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Cell&nbsp;Biology}<br>
+}<br>
+
+    </div>
+
+
+
+- [L-FRESco: Factual Recall Evaluation Score for Legal Analysis Generation](https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf). Abe Hou, Zhengping Jiang, **Guanghui Qin**, Orion Weller, Andrew Blair-Stanek, and Benjamin Van Durme. In *Workshop on Generative AI and Law*, 2024. <span>[<a href="https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf">paper</a>] [<a href="javascript:toggleDiv('11bib')">bibtex</a>]</span>
+{: .publication .selected}
+
+
+
+
+
+
+
+<div id="11bib" style="display: none" class="bib">
+    @inproceedings{hou-etal-2024-lfresco,<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;"L-FRESco:&nbsp;Factual&nbsp;Recall&nbsp;Evaluation&nbsp;Score&nbsp;for&nbsp;Legal&nbsp;Analysis&nbsp;Generation",<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hou,&nbsp;Abe&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Jiang,&nbsp;Zhengping&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Weller,&nbsp;Orion&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Blair-Stanek,&nbsp;Andrew&nbsp;&nbsp;and<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
+&nbsp;&nbsp;booktitle&nbsp;=&nbsp;"Proceedings&nbsp;of&nbsp;Workshop&nbsp;on&nbsp;Generative&nbsp;AI&nbsp;and&nbsp;Law",<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;"2024",<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;"https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf",<br>
 }<br>
 
     </div>
