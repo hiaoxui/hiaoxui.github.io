@@ -1,0 +1,26 @@
+title: "Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration"
+show: false
+priority: 5
+authors:
+  - James Y. Huang*
+  - Sheng Zhang*
+  - Qianchu Liu
+  - Guanghui Qin
+  - Tinghui Zhu
+  - Tristan Naumann
+  - Muhao Chen
+  - Hoifung Poon
+venue: "arXiv"
+year: 2025
+url: "https://doi.org/10.48550/arXiv.2511.19417"
+bib: |+2
+  @misc{huang2025eyesextendinglargelanguage,
+      title={Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration},
+      author={James Y. Huang and Sheng Zhang and Qianchu Liu and Guanghui Qin and Tinghui Zhu and Tristan Naumann and Muhao Chen and Hoifung Poon},
+      year={2025},
+      eprint={2511.19417},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.19417},
+  }
+

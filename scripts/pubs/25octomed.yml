@@ -1,0 +1,26 @@
+title: "OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning"
+show: false
+priority: 5
+authors:
+  - Timothy Ossowski*
+  - Sheng Zhang*
+  - Qianchu Liu
+  - Guanghui Qin
+  - Reuben Tan
+  - Tristan Naumann
+  - Junjie Hu
+  - Hoifung Poon
+venue: "arXiv"
+year: 2025
+url: "https://doi.org/10.48550/arXiv.2511.23269"
+bib: |+2
+  @misc{ossowski2025octomeddatarecipesstateoftheart,
+      title={OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning},
+      author={Timothy Ossowski and Sheng Zhang and Qianchu Liu and Guanghui Qin and Reuben Tan and Tristan Naumann and Junjie Hu and Hoifung Poon},
+      year={2025},
+      eprint={2511.23269},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2511.23269},
+  }
+
