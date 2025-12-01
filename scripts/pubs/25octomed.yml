@@ -23,4 +23,6 @@ bib: |+2
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2511.23269},
   }
+links:
+  model: https://huggingface.co/OctoMed/OctoMed-7B
 
