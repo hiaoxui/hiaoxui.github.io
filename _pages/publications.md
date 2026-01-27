@@ -69,8 +69,8 @@ author_profile: true
 
 
 
-- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
-{: .publication .selected}
+- [Scaling medical imaging report generation with multimodal reinforcement learning](doi.org/10.48550/arXiv.2601.17151). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, and Hoifung Poon. In *arXiv*, 2026. <span>[<a href="doi.org/10.48550/arXiv.2601.17151">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
 
 
 
@@ -79,6 +79,28 @@ author_profile: true
 
 
 <div id="0bib" style="display: none" class="bib">
+    @misc{liu2026scalingmedicalimagingreport,<br>
+&nbsp;&nbsp;title={Scaling&nbsp;medical&nbsp;imaging&nbsp;report&nbsp;generation&nbsp;with&nbsp;multimodal&nbsp;reinforcement&nbsp;learning},<br>
+&nbsp;&nbsp;author={Qianchu&nbsp;Liu&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Yu&nbsp;Gu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sam&nbsp;Preston&nbsp;and&nbsp;Yanbo&nbsp;Xu&nbsp;and&nbsp;Sid&nbsp;Kiblawi&nbsp;and&nbsp;Wen-wai&nbsp;Yim&nbsp;and&nbsp;Tim&nbsp;Ossowski&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+&nbsp;&nbsp;year={2026},<br>
+&nbsp;&nbsp;url={https://arxiv.org/abs/2601.17151},<br>
+}<br>
+<br>
+
+    </div>
+
+
+
+- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+{: .publication .selected}
+
+
+
+
+
+
+
+<div id="1bib" style="display: none" class="bib">
     @article{dynamic25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.1073/pnas.2503847122},<br>
@@ -94,32 +116,7 @@ author_profile: true
 
 
 
-- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="1bib" style="display: none" class="bib">
-    @misc{huang2025eyesextendinglargelanguage,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Be&nbsp;My&nbsp;Eyes:&nbsp;Extending&nbsp;Large&nbsp;Language&nbsp;Models&nbsp;to&nbsp;New&nbsp;Modalities&nbsp;Through&nbsp;Multi-Agent&nbsp;Collaboration},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={James&nbsp;Y.&nbsp;Huang&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tinghui&nbsp;Zhu&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Muhao&nbsp;Chen&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.19417},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.19417},<br>
-}<br>
-<br>
-
-    </div>
-
-
-
-- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://doi.org/10.48550/arXiv.2511.23269). Timothy Ossowski\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Reuben Tan, Tristan Naumann, Junjie Hu, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.23269">paper</a>] [<a href="https://huggingface.co/OctoMed/OctoMed-7B">model</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -129,21 +126,19 @@ author_profile: true
 
 
 <div id="2bib" style="display: none" class="bib">
-    @misc{ossowski2025octomeddatarecipesstateoftheart,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={OctoMed:&nbsp;Data&nbsp;Recipes&nbsp;for&nbsp;State-of-the-Art&nbsp;Multimodal&nbsp;Medical&nbsp;Reasoning},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Timothy&nbsp;Ossowski&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Junjie&nbsp;Hu&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.23269},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.AI},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.23269},<br>
+    @misc{xreasoner25,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
 }<br>
+<br>
 
     </div>
 
 
 
-- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://doi.org/10.48550/arXiv.2511.23269). Timothy Ossowski\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Reuben Tan, Tristan Naumann, Junjie Hu, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.23269">paper</a>] [<a href="https://huggingface.co/OctoMed/OctoMed-7B">model</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -153,13 +148,15 @@ author_profile: true
 
 
 <div id="3bib" style="display: none" class="bib">
-    @misc{xreasoner25,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
+    @misc{ossowski2025octomeddatarecipesstateoftheart,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={OctoMed:&nbsp;Data&nbsp;Recipes&nbsp;for&nbsp;State-of-the-Art&nbsp;Multimodal&nbsp;Medical&nbsp;Reasoning},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Timothy&nbsp;Ossowski&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Junjie&nbsp;Hu&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.23269},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.AI},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.23269},<br>
 }<br>
-<br>
 
     </div>
 
@@ -186,7 +183,7 @@ author_profile: true
 
 
 
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -196,6 +193,31 @@ author_profile: true
 
 
 <div id="5bib" style="display: none" class="bib">
+    @misc{huang2025eyesextendinglargelanguage,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Be&nbsp;My&nbsp;Eyes:&nbsp;Extending&nbsp;Large&nbsp;Language&nbsp;Models&nbsp;to&nbsp;New&nbsp;Modalities&nbsp;Through&nbsp;Multi-Agent&nbsp;Collaboration},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={James&nbsp;Y.&nbsp;Huang&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tinghui&nbsp;Zhu&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Muhao&nbsp;Chen&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.19417},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.19417},<br>
+}<br>
+<br>
+
+    </div>
+
+
+
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
+
+
+
+
+
+
+
+<div id="6bib" style="display: none" class="bib">
     @inproceedings{hou-etal-2025-clerc,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{CLERC}:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;{U}.&nbsp;{S}.&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Hou,&nbsp;Abe&nbsp;Bohan&nbsp;&nbsp;and<br>
@@ -216,30 +238,7 @@ author_profile: true
 
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research](https://doi.org/10.1145/3726302.3730275). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.1145/3726302.3730275">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="6bib" style="display: none" class="bib">
-    @inproceedings{rosset2025researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.1145/3726302.3730275"<br>
-}<br>
-<br>
-
-    </div>
-
-
-
-- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research](https://doi.org/10.1145/3726302.3730275). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.1145/3726302.3730275">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -249,14 +248,12 @@ author_profile: true
 
 
 <div id="7bib" style="display: none" class="bib">
-    @misc{gu2025illusionreadinessstresstesting,<br>
-&nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
-&nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
-&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;eprint={2509.18234},<br>
-&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;primaryClass={cs.AI},<br>
-&nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
+    @inproceedings{rosset2025researchy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.1145/3726302.3730275"<br>
 }<br>
 <br>
 
@@ -285,7 +282,7 @@ author_profile: true
 
 
 
-- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.18653/v1/2025.iwslt-1.1). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.iwslt-1.1">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -295,6 +292,31 @@ author_profile: true
 
 
 <div id="9bib" style="display: none" class="bib">
+    @misc{gu2025illusionreadinessstresstesting,<br>
+&nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
+&nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
+&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;eprint={2509.18234},<br>
+&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;primaryClass={cs.AI},<br>
+&nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
+}<br>
+<br>
+
+    </div>
+
+
+
+- [Streaming Sequence Transduction through Dynamic Compression](https://doi.org/10.18653/v1/2025.iwslt-1.1). Weiting Tan, Yunmo Chen, Tongfei Chen, **Guanghui Qin**, Haoran Xu, Heidi C Zhang, Benjamin Van Durme, and Philipp Koehn. In *International Conference on Spoken Language Translation (IWSLT)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.iwslt-1.1">paper</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
+
+
+
+
+
+
+
+<div id="10bib" style="display: none" class="bib">
     @inproceedings{star25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://aclanthology.org/2025.iwslt-1.1.pdf},<br>
@@ -308,7 +330,7 @@ author_profile: true
 
 
 
-- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('10bib')">bibtex</a>]</span>
+- [KV-Distill: Nearly Lossless Learnable Context Compression for LLMs](https://doi.org/10.48550/arXiv.2503.10337). Vivek Chari, **Guanghui Qin**, and Benjamin Van Durme. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2503.10337">paper</a>] [<a href="javascript:toggleDiv('11bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -317,7 +339,7 @@ author_profile: true
 
 
 
-<div id="10bib" style="display: none" class="bib">
+<div id="11bib" style="display: none" class="bib">
     @misc{chari2025kvdistillnearlylosslesslearnable,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={KV-Distill:&nbsp;Nearly&nbsp;Lossless&nbsp;Learnable&nbsp;Context&nbsp;Compression&nbsp;for&nbsp;LLMs},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Vivek&nbsp;Chari&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Benjamin&nbsp;Van&nbsp;Durme},<br>
@@ -333,7 +355,7 @@ author_profile: true
 
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('11bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -342,7 +364,7 @@ author_profile: true
 
 
 
-<div id="11bib" style="display: none" class="bib">
+<div id="12bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2024-dodo,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Dodo:&nbsp;Dynamic&nbsp;Contextual&nbsp;Compression&nbsp;for&nbsp;Decoder-only&nbsp;{LM}s",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -360,7 +382,7 @@ author_profile: true
 
 
 
-- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1038/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1038/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
+- [Ras suppression potentiates rear actomyosin contractility-driven cell polarization and migration](https://doi.org/10.1038/s41556-024-01453-4). Yiyan Lin, Dhiman Sankar Pal, Parijat Banerjee, Tatsat Banerjee, **Guanghui Qin**, Yu Deng, Jane Borleis, Pablo A Iglesias, and Peter N Devreotes. In *Nature Cell Biology*, 2024. <span>[<a href="https://doi.org/10.1038/s41556-024-01453-4">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2023.08.30.555648">biorxiv</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -369,7 +391,7 @@ author_profile: true
 
 
 
-<div id="12bib" style="display: none" class="bib">
+<div id="13bib" style="display: none" class="bib">
     @article&nbsp;{lin2024ras,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Lin,&nbsp;Yiyan&nbsp;and&nbsp;Pal,&nbsp;Dhiman&nbsp;Sankar&nbsp;and&nbsp;Banerjee,&nbsp;Parijat&nbsp;and&nbsp;Banerjee,&nbsp;Tatsat&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Deng,&nbsp;Yu&nbsp;and&nbsp;Borleis,&nbsp;Jane&nbsp;and&nbsp;Iglesias,&nbsp;Pablo&nbsp;A.&nbsp;and&nbsp;Devreotes,&nbsp;Peter&nbsp;N.},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Ras&nbsp;suppression&nbsp;potentiates&nbsp;rear&nbsp;actomyosin&nbsp;contractility-driven&nbsp;cell&nbsp;polarization&nbsp;and&nbsp;migration},<br>
@@ -385,7 +407,7 @@ author_profile: true
 
 
 
-- [L-FRESco: Factual Recall Evaluation Score for Legal Analysis Generation](https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf). Abe Hou, Zhengping Jiang, **Guanghui Qin**, Orion Weller, Andrew Blair-Stanek, and Benjamin Van Durme. In *Workshop on Generative AI and Law*, 2024. <span>[<a href="https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf">paper</a>] [<a href="javascript:toggleDiv('13bib')">bibtex</a>]</span>
+- [L-FRESco: Factual Recall Evaluation Score for Legal Analysis Generation](https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf). Abe Hou, Zhengping Jiang, **Guanghui Qin**, Orion Weller, Andrew Blair-Stanek, and Benjamin Van Durme. In *Workshop on Generative AI and Law*, 2024. <span>[<a href="https://blog.genlaw.org/pdfs/genlaw_icml2024/102.pdf">paper</a>] [<a href="javascript:toggleDiv('14bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -394,7 +416,7 @@ author_profile: true
 
 
 
-<div id="13bib" style="display: none" class="bib">
+<div id="14bib" style="display: none" class="bib">
     @inproceedings{hou-etal-2024-lfresco,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"L-FRESco:&nbsp;Factual&nbsp;Recall&nbsp;Evaluation&nbsp;Score&nbsp;for&nbsp;Legal&nbsp;Analysis&nbsp;Generation",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"<br>
@@ -413,7 +435,7 @@ author_profile: true
 
 
 
-- [Towards Efficient Long-Context Natural Language Processing](https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1). **Guanghui Qin**. In *Johns Hopkins University Library (thesis)*, 2024. <span>[<a href="https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1">paper</a>] [<a href="javascript:toggleDiv('14bib')">bibtex</a>]</span>
+- [Towards Efficient Long-Context Natural Language Processing](https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1). **Guanghui Qin**. In *Johns Hopkins University Library (thesis)*, 2024. <span>[<a href="https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1">paper</a>] [<a href="javascript:toggleDiv('15bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -422,7 +444,7 @@ author_profile: true
 
 
 
-<div id="14bib" style="display: none" class="bib">
+<div id="15bib" style="display: none" class="bib">
     @thesis{thesis24,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2024},<br>
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://jscholarship.library.jhu.edu/items/68c24613-c500-4255-a15c-39d3dabbcee1},<br>
@@ -436,7 +458,7 @@ author_profile: true
 
 
 
-- [Nugget: Neural Agglomerative Embeddings of Text](https://proceedings.mlr.press/v202/qin23a/qin23a.pdf). **Guanghui Qin** and Benjamin Van Durme. In *International Conference on Machine Learning (ICML)*, 2023. <span>[<a href="https://proceedings.mlr.press/v202/qin23a/qin23a.pdf">paper</a>] [<a href="https://github.com/hiaoxui/nugget-data">data</a>] [<a href="/files/23papers/nugget_poster.pdf">poster</a>] [<a href="/files/23papers/nugget_slides.pptx">slides</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('15bib')">bibtex</a>]</span>
+- [Nugget: Neural Agglomerative Embeddings of Text](https://proceedings.mlr.press/v202/qin23a/qin23a.pdf). **Guanghui Qin** and Benjamin Van Durme. In *International Conference on Machine Learning (ICML)*, 2023. <span>[<a href="https://proceedings.mlr.press/v202/qin23a/qin23a.pdf">paper</a>] [<a href="https://github.com/hiaoxui/nugget-data">data</a>] [<a href="/files/23papers/nugget_poster.pdf">poster</a>] [<a href="/files/23papers/nugget_slides.pptx">slides</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -445,7 +467,7 @@ author_profile: true
 
 
 
-<div id="15bib" style="display: none" class="bib">
+<div id="16bib" style="display: none" class="bib">
     @InProceedings{pmlr-v202-qin23a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Nugget:&nbsp;Neural&nbsp;Agglomerative&nbsp;Embeddings&nbsp;of&nbsp;Text},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Qin,&nbsp;Guanghui&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin},<br>
@@ -463,7 +485,7 @@ author_profile: true
 
 
 
-- [The NLP Task Effectiveness of Long-Range Transformers](https://doi.org/10.18653/v1/2023.eacl-main.273). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, oral)*, 2023. <span>[<a href="https://doi.org/10.18653/v1/2023.eacl-main.273">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('16bib')">bibtex</a>]</span>
+- [The NLP Task Effectiveness of Long-Range Transformers](https://doi.org/10.18653/v1/2023.eacl-main.273). **Guanghui Qin**, Yukun Feng, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, oral)*, 2023. <span>[<a href="https://doi.org/10.18653/v1/2023.eacl-main.273">paper</a>] [<a href="https://github.com/hiaoxui/long-range-transformers">code</a>] [<a href="/files/23papers/lrt_slides.pptx">slides</a>] [<a href="/files/23papers/lrt_poster.pdf">poster</a>] [<a href="https://aclanthology.org/2023.eacl-main.273.mp4">video</a>] [<a href="javascript:toggleDiv('17bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -472,7 +494,7 @@ author_profile: true
 
 
 
-<div id="16bib" style="display: none" class="bib">
+<div id="17bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2023-nlp,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"The&nbsp;{NLP}&nbsp;Task&nbsp;Effectiveness&nbsp;of&nbsp;Long-Range&nbsp;Transformers",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and&nbsp;Feng,&nbsp;Yukun&nbsp;&nbsp;and&nbsp;Van&nbsp;Durme,&nbsp;Benjamin",<br>
@@ -489,7 +511,7 @@ author_profile: true
 
 
 
-- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://doi.org/10.18653/v1/2021.naacl-main.410). **Guanghui Qin** and Jason Eisner. In *North American Chapter of the Association for Computational Linguistics (NAACL, short)*, 2021. <span style="color:red">**Best Short Paper**</span>.<span>[<a href="https://doi.org/10.18653/v1/2021.naacl-main.410">paper</a>] [<a href="/files/21papers/prompt_poster.pdf">poster</a>] [<a href="/files/21papers/prompt_slides.pptx">slides</a>] [<a href="https://github.com/hiaoxui/soft-prompts">code</a>] [<a href="https://twitter.com/adveisner/status/1402681187018084354?lang=en">twitter</a>] [<a href="javascript:toggleDiv('17bib')">bibtex</a>]</span>
+- [Learning How to Ask: Querying LMs with Mixtures of Soft Prompts](https://doi.org/10.18653/v1/2021.naacl-main.410). **Guanghui Qin** and Jason Eisner. In *North American Chapter of the Association for Computational Linguistics (NAACL, short)*, 2021. <span style="color:red">**Best Short Paper**</span>.<span>[<a href="https://doi.org/10.18653/v1/2021.naacl-main.410">paper</a>] [<a href="/files/21papers/prompt_poster.pdf">poster</a>] [<a href="/files/21papers/prompt_slides.pptx">slides</a>] [<a href="https://github.com/hiaoxui/soft-prompts">code</a>] [<a href="https://twitter.com/adveisner/status/1402681187018084354?lang=en">twitter</a>] [<a href="javascript:toggleDiv('18bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -498,7 +520,7 @@ author_profile: true
 
 
 
-<div id="17bib" style="display: none" class="bib">
+<div id="18bib" style="display: none" class="bib">
     @inproceedings{qin-eisner-2021-learning,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Learning&nbsp;How&nbsp;to&nbsp;Ask:&nbsp;Querying&nbsp;{LM}s&nbsp;with&nbsp;Mixtures&nbsp;of&nbsp;Soft&nbsp;Prompts",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;and&nbsp;Eisner,&nbsp;Jason",<br>
@@ -515,7 +537,7 @@ author_profile: true
 
 
 
-- [LOME: Large Ontology Multilingual Extraction](https://doi.org/10.18653/v1/2021.eacl-demos.19). Patrick Xia\*, **Guanghui Qin**\*, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, demo)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.eacl-demos.19">paper</a>] [<a href="https://nlp.jhu.edu/demos/lome/">demo</a>] [<a href="https://github.com/hiaoxui/span-finder">code</a>] [<a href="https://hub.docker.com/r/hltcoe/lome">docker</a>] [<a href="https://www.youtube.com/watch?v=o4KsGdnV6BE&list=LL&index=13">video</a>] [<a href="javascript:toggleDiv('18bib')">bibtex</a>]</span>
+- [LOME: Large Ontology Multilingual Extraction](https://doi.org/10.18653/v1/2021.eacl-demos.19). Patrick Xia\*, **Guanghui Qin**\*, Siddharth Vashishtha, Yunmo Chen, Tongfei Chen, Chandler May, Craig Harman, Kyle Rawlins, Aaron Steven White, and Benjamin Van Durme. In *Annual Conference of the European Chapter of the Association for Computational Linguistics (EACL, demo)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.eacl-demos.19">paper</a>] [<a href="https://nlp.jhu.edu/demos/lome/">demo</a>] [<a href="https://github.com/hiaoxui/span-finder">code</a>] [<a href="https://hub.docker.com/r/hltcoe/lome">docker</a>] [<a href="https://www.youtube.com/watch?v=o4KsGdnV6BE&list=LL&index=13">video</a>] [<a href="javascript:toggleDiv('19bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -524,7 +546,7 @@ author_profile: true
 
 
 
-<div id="18bib" style="display: none" class="bib">
+<div id="19bib" style="display: none" class="bib">
     @inproceedings{xia-etal-2021-lome,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{LOME}:&nbsp;Large&nbsp;Ontology&nbsp;Multilingual&nbsp;Extraction",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Xia,&nbsp;Patrick&nbsp;&nbsp;and<br>
@@ -551,7 +573,7 @@ author_profile: true
 
 
 
-- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('19bib')">bibtex</a>]</span>
+- [Everything Is All It Takes: A Multipronged Strategy for Zero-Shot Cross-Lingual Information Extraction](https://doi.org/10.18653/v1/2021.emnlp-main.149). Mahsa Yarmohammadi, Shijie Wu, Marc Marone, Haoran Xu, Seth Ebner, **Guanghui Qin**, Yunmo Chen, Jialiang Guo, Craig Harman, Kenon Murray, Aaron Steven White, Mark Dredze, and Benjamin Van Durme. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2021. <span>[<a href="https://doi.org/10.18653/v1/2021.emnlp-main.149">paper</a>] [<a href="https://aclanthology.org/2021.emnlp-main.149.mp4">video</a>] [<a href="https://github.com/shijie-wu/crosslingual-nlp">code</a>] [<a href="javascript:toggleDiv('20bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -560,7 +582,7 @@ author_profile: true
 
 
 
-<div id="19bib" style="display: none" class="bib">
+<div id="20bib" style="display: none" class="bib">
     @inproceedings{yarmohammadi-etal-2021-everything,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Everything&nbsp;Is&nbsp;All&nbsp;It&nbsp;Takes:&nbsp;A&nbsp;Multipronged&nbsp;Strategy&nbsp;for&nbsp;Zero-Shot&nbsp;Cross-Lingual&nbsp;Information&nbsp;Extraction",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Yarmohammadi,&nbsp;Mahsa&nbsp;&nbsp;and<br>
@@ -586,7 +608,7 @@ author_profile: true
 
 
 
-- [Iterative Paraphrastic Augmentation with Discriminative Span Alignment](https://doi.org/10.1162/tacl_a_00380). Ryan Culkin, J Edward Hu, Elias Stengel-Eskin, **Guanghui Qin**, and Benjamin Van Durme. In *Transactions of the Association for Computational Linguistics (TACL)*, 2021. <span>[<a href="https://doi.org/10.1162/tacl_a_00380">paper</a>] [<a href="javascript:toggleDiv('20bib')">bibtex</a>]</span>
+- [Iterative Paraphrastic Augmentation with Discriminative Span Alignment](https://doi.org/10.1162/tacl_a_00380). Ryan Culkin, J Edward Hu, Elias Stengel-Eskin, **Guanghui Qin**, and Benjamin Van Durme. In *Transactions of the Association for Computational Linguistics (TACL)*, 2021. <span>[<a href="https://doi.org/10.1162/tacl_a_00380">paper</a>] [<a href="javascript:toggleDiv('21bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -595,7 +617,7 @@ author_profile: true
 
 
 
-<div id="20bib" style="display: none" class="bib">
+<div id="21bib" style="display: none" class="bib">
     @article{10.1162/tacl_a_00380,<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Culkin,&nbsp;Ryan&nbsp;and&nbsp;Hu,&nbsp;J.&nbsp;Edward&nbsp;and&nbsp;Stengel-Eskin,&nbsp;Elias&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Durme,&nbsp;Benjamin&nbsp;Van},<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{Iterative&nbsp;Paraphrastic&nbsp;Augmentation&nbsp;with&nbsp;Discriminative&nbsp;Span&nbsp;Alignment}",<br>
@@ -613,7 +635,7 @@ author_profile: true
 
 
 
-- [Neural Datalog through Time: Informed Temporal Modeling via Logical Specification](https://proceedings.mlr.press/v119/mei20a/mei20a.pdf). Hongyuan Mei, **Guanghui Qin**, Minjie Xu, and Jason Eisner. In *International Conference on Machine Learning (ICML, oral)*, 2020. <span>[<a href="https://proceedings.mlr.press/v119/mei20a/mei20a.pdf">paper</a>] [<a href="https://www.bloomberg.com/company/stories/icml-2020-bloomberg-ph-d-fellow-combines-datalog-and-neural-networks-to-model-dynamic-databases/">blog</a>] [<a href="/files/20papers/datalog_slides.pptx">slides</a>] [<a href="https://github.com/hongyuanmei/neural-datalog-through-time">code</a>] [<a href="https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.mp4">video</a>] [<a href="https://fortune.com/2020/09/08/disco-bell-bottoms-big-hair-and-cutting-edge-a-i/">press</a>] [<a href="javascript:toggleDiv('21bib')">bibtex</a>]</span>
+- [Neural Datalog through Time: Informed Temporal Modeling via Logical Specification](https://proceedings.mlr.press/v119/mei20a/mei20a.pdf). Hongyuan Mei, **Guanghui Qin**, Minjie Xu, and Jason Eisner. In *International Conference on Machine Learning (ICML, oral)*, 2020. <span>[<a href="https://proceedings.mlr.press/v119/mei20a/mei20a.pdf">paper</a>] [<a href="https://www.bloomberg.com/company/stories/icml-2020-bloomberg-ph-d-fellow-combines-datalog-and-neural-networks-to-model-dynamic-databases/">blog</a>] [<a href="/files/20papers/datalog_slides.pptx">slides</a>] [<a href="https://github.com/hongyuanmei/neural-datalog-through-time">code</a>] [<a href="https://www.cs.jhu.edu/~hmei/papers/mei+qin+xu+eisner.icml20.mp4">video</a>] [<a href="https://fortune.com/2020/09/08/disco-bell-bottoms-big-hair-and-cutting-edge-a-i/">press</a>] [<a href="javascript:toggleDiv('22bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -622,7 +644,7 @@ author_profile: true
 
 
 
-<div id="21bib" style="display: none" class="bib">
+<div id="22bib" style="display: none" class="bib">
     @InProceedings{pmlr-v119-mei20a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Neural&nbsp;Datalog&nbsp;Through&nbsp;Time:&nbsp;Informed&nbsp;Temporal&nbsp;Modeling&nbsp;via&nbsp;Logical&nbsp;Specification},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Mei,&nbsp;Hongyuan&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Xu,&nbsp;Minjie&nbsp;and&nbsp;Eisner,&nbsp;Jason},<br>
@@ -642,7 +664,7 @@ author_profile: true
 
 
 
-- [CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models](https://doi.org/10.18653/v1/2020.spnlp-1.2). Abhinav Singh, Patrick Xia, **Guanghui Qin**, Mahsa Yarmohammadi, and Benjamin Van Durme. In *Fourth Workshop on Structured Prediction for NLP*, 2020. <span>[<a href="https://doi.org/10.18653/v1/2020.spnlp-1.2">paper</a>] [<a href="https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model">video</a>] [<a href="https://github.com/abhinonymous/copynext">code</a>] [<a href="javascript:toggleDiv('22bib')">bibtex</a>]</span>
+- [CopyNext: Explicit Span Copying and Alignment in Sequence to Sequence Models](https://doi.org/10.18653/v1/2020.spnlp-1.2). Abhinav Singh, Patrick Xia, **Guanghui Qin**, Mahsa Yarmohammadi, and Benjamin Van Durme. In *Fourth Workshop on Structured Prediction for NLP*, 2020. <span>[<a href="https://doi.org/10.18653/v1/2020.spnlp-1.2">paper</a>] [<a href="https://slideslive.com/38940142/copynext-explicit-span-copying-and-alignment-in-sequence-to-sequence-model">video</a>] [<a href="https://github.com/abhinonymous/copynext">code</a>] [<a href="javascript:toggleDiv('23bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -651,7 +673,7 @@ author_profile: true
 
 
 
-<div id="22bib" style="display: none" class="bib">
+<div id="23bib" style="display: none" class="bib">
     @inproceedings{singh-etal-2020-copynext,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{C}opy{N}ext:&nbsp;Explicit&nbsp;Span&nbsp;Copying&nbsp;and&nbsp;Alignment&nbsp;in&nbsp;Sequence&nbsp;to&nbsp;Sequence&nbsp;Models",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Singh,&nbsp;Abhinav&nbsp;&nbsp;and<br>
@@ -669,7 +691,7 @@ author_profile: true
 
 
 
-- [Imputing Missing Events in Continuous-Time Event Streams](https://proceedings.mlr.press/v97/mei19a/mei19a.pdf). Hongyuan Mei, **Guanghui Qin**, and Jason Eisner. In *International Conference on Machine Learning (ICML, oral)*, 2019. <span>[<a href="https://proceedings.mlr.press/v97/mei19a/mei19a.pdf">paper</a>] [<a href="https://github.com/hongyuanmei/neural-hawkes-particle-smoothing">code</a>] [<a href="/files/19papers/smoothing_poster.pdf">poster</a>] [<a href="/files/19papers/smoothing_slides.pdf">slides</a>] [<a href="javascript:toggleDiv('23bib')">bibtex</a>]</span>
+- [Imputing Missing Events in Continuous-Time Event Streams](https://proceedings.mlr.press/v97/mei19a/mei19a.pdf). Hongyuan Mei, **Guanghui Qin**, and Jason Eisner. In *International Conference on Machine Learning (ICML, oral)*, 2019. <span>[<a href="https://proceedings.mlr.press/v97/mei19a/mei19a.pdf">paper</a>] [<a href="https://github.com/hongyuanmei/neural-hawkes-particle-smoothing">code</a>] [<a href="/files/19papers/smoothing_poster.pdf">poster</a>] [<a href="/files/19papers/smoothing_slides.pdf">slides</a>] [<a href="javascript:toggleDiv('24bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -678,7 +700,7 @@ author_profile: true
 
 
 
-<div id="23bib" style="display: none" class="bib">
+<div id="24bib" style="display: none" class="bib">
     @InProceedings{pmlr-v97-mei19a,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;{Imputing&nbsp;Missing&nbsp;Events&nbsp;in&nbsp;Continuous-Time&nbsp;Event&nbsp;Streams},<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;{Mei,&nbsp;Hongyuan&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Eisner,&nbsp;Jason},<br>
@@ -696,7 +718,7 @@ author_profile: true
 
 
 
-- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('24bib')">bibtex</a>]</span>
+- [Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data](https://doi.org/10.18653/v1/D18-1411). **Guanghui Qin**, Jin-Ge Yao, Xuening Wang, Jinpeng Wang, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, oral)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-1411">paper</a>] [<a href="https://github.com/hiaoxui/D2T-Grounding">code</a>] [<a href="/files/18papers/d2t_slides.pptx">slides</a>] [<a href="https://vimeo.com/306117499">video</a>] [<a href="javascript:toggleDiv('25bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -705,7 +727,7 @@ author_profile: true
 
 
 
-<div id="24bib" style="display: none" class="bib">
+<div id="25bib" style="display: none" class="bib">
     @inproceedings{qin-etal-2018-learning,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"Learning&nbsp;Latent&nbsp;Semantic&nbsp;Annotations&nbsp;for&nbsp;Grounding&nbsp;Natural&nbsp;Language&nbsp;to&nbsp;Structured&nbsp;Data",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Qin,&nbsp;Guanghui&nbsp;&nbsp;and<br>
@@ -723,7 +745,7 @@ author_profile: true
 
 
 
-- [Data2Text Studio: Automated Text Generation from Structured Data](https://doi.org/10.18653/v1/D18-2003). Longxu Dou, **Guanghui Qin**, Jinpeng Wang, Jin-Ge Yao, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, demo)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-2003">paper</a>] [<a href="javascript:toggleDiv('25bib')">bibtex</a>]</span>
+- [Data2Text Studio: Automated Text Generation from Structured Data](https://doi.org/10.18653/v1/D18-2003). Longxu Dou, **Guanghui Qin**, Jinpeng Wang, Jin-Ge Yao, and Chin-Yew Lin. In *Empirical Methods in Natural Language Processing (EMNLP, demo)*, 2018. <span>[<a href="https://doi.org/10.18653/v1/D18-2003">paper</a>] [<a href="javascript:toggleDiv('26bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -732,7 +754,7 @@ author_profile: true
 
 
 
-<div id="25bib" style="display: none" class="bib">
+<div id="26bib" style="display: none" class="bib">
     @inproceedings{dou-etal-2018-data2text,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{D}ata2{T}ext&nbsp;Studio:&nbsp;Automated&nbsp;Text&nbsp;Generation&nbsp;from&nbsp;Structured&nbsp;Data",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Dou,&nbsp;Longxu&nbsp;&nbsp;and<br>

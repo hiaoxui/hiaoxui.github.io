@@ -1,0 +1,28 @@
+title: "Scaling medical imaging report generation with multimodal reinforcement learning"
+show: false
+priority: 5
+authors:
+  - Qianchu Liu*
+  - Sheng Zhang*
+  - Guanghui Qin*
+  - Yu Gu
+  - Ying Jin
+  - Sam Preston
+  - Yanbo Xu
+  - Sid Kiblawi
+  - Wen-wai Yim
+  - Timothy Ossowski
+  - Tristan Naumann
+  - Mu Wei
+  - Hoifung Poon
+venue: "arXiv"
+year: 2026
+url: "doi.org/10.48550/arXiv.2601.17151"
+bib: |+2
+  @misc{liu2026scalingmedicalimagingreport,
+    title={Scaling medical imaging report generation with multimodal reinforcement learning},
+    author={Qianchu Liu and Sheng Zhang and Guanghui Qin and Yu Gu and Ying Jin and Sam Preston and Yanbo Xu and Sid Kiblawi and Wen-wai Yim and Tim Ossowski and Tristan Naumann and Mu Wei and Hoifung Poon},
+    year={2026},
+    url={https://arxiv.org/abs/2601.17151},
+  }
+
