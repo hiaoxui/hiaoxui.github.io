@@ -69,8 +69,8 @@ author_profile: true
 
 
 
-- [Scaling medical imaging report generation with multimodal reinforcement learning](doi.org/10.48550/arXiv.2601.17151). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, and Hoifung Poon. In *arXiv*, 2026. <span>[<a href="doi.org/10.48550/arXiv.2601.17151">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
+- [Scaling medical imaging report generation with multimodal reinforcement learning](https://doi.org/10.48550/arXiv.2601.17151). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, and Hoifung Poon. In *arXiv*, 2026. <span>[<a href="https://doi.org/10.48550/arXiv.2601.17151">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+{: .publication .selected}
 
 
 
