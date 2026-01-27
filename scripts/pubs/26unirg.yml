@@ -17,7 +17,7 @@ authors:
   - Hoifung Poon
 venue: "arXiv"
 year: 2026
-url: "doi.org/10.48550/arXiv.2601.17151"
+url: "https://doi.org/10.48550/arXiv.2601.17151"
 bib: |+2
   @misc{liu2026scalingmedicalimagingreport,
     title={Scaling medical imaging report generation with multimodal reinforcement learning},
