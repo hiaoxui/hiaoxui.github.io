@@ -69,7 +69,7 @@ author_profile: true
 
 
 
-- [Scaling medical imaging report generation with multimodal reinforcement learning](https://doi.org/10.48550/arXiv.2601.17151). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, and Hoifung Poon. In *arXiv*, 2026. <span>[<a href="https://doi.org/10.48550/arXiv.2601.17151">paper</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
+- [Scaling medical imaging report generation with multimodal reinforcement learning](https://doi.org/10.48550/arXiv.2601.17151). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Yu Gu, Ying Jin, Sam Preston, Yanbo Xu, Sid Kiblawi, Wen-wai Yim, Timothy Ossowski, Tristan Naumann, Mu Wei, and Hoifung Poon. In *arXiv*, 2026. <span>[<a href="https://doi.org/10.48550/arXiv.2601.17151">paper</a>] [<a href="https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/">blog</a>] [<a href="https://x.com/MSFTResearch/status/2016194490571051113">twitter</a>] [<a href="javascript:toggleDiv('0bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 
@@ -116,7 +116,7 @@ author_profile: true
 
 
 
-- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
+- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('2bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -126,11 +126,14 @@ author_profile: true
 
 
 <div id="2bib" style="display: none" class="bib">
-    @misc{xreasoner25,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
+    @misc{huang2025eyesextendinglargelanguage,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Be&nbsp;My&nbsp;Eyes:&nbsp;Extending&nbsp;Large&nbsp;Language&nbsp;Models&nbsp;to&nbsp;New&nbsp;Modalities&nbsp;Through&nbsp;Multi-Agent&nbsp;Collaboration},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={James&nbsp;Y.&nbsp;Huang&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tinghui&nbsp;Zhu&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Muhao&nbsp;Chen&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.19417},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.19417},<br>
 }<br>
 <br>
 
@@ -162,7 +165,7 @@ author_profile: true
 
 
 
-- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -172,18 +175,19 @@ author_profile: true
 
 
 <div id="4bib" style="display: none" class="bib">
-    @misc{zhang2025medrlvremergingmedicalreasoning,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2502.19655},<br>
+    @misc{xreasoner25,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Liu,&nbsp;Qianchu&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Ossowski,&nbsp;Timothy&nbsp;and&nbsp;Gu,&nbsp;Yu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Kiblawi,&nbsp;Sid&nbsp;and&nbsp;Preston,&nbsp;Sam&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Vozila,&nbsp;Paul&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Poon,&nbsp;Hoifung},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{X-{{Reasoner}}:&nbsp;{{Towards&nbsp;Generalizable&nbsp;Reasoning&nbsp;Across&nbsp;Modalities}}&nbsp;and&nbsp;{{Domains}}}<br>
 }<br>
+<br>
 
     </div>
 
 
 
-- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -193,16 +197,12 @@ author_profile: true
 
 
 <div id="5bib" style="display: none" class="bib">
-    @misc{huang2025eyesextendinglargelanguage,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Be&nbsp;My&nbsp;Eyes:&nbsp;Extending&nbsp;Large&nbsp;Language&nbsp;Models&nbsp;to&nbsp;New&nbsp;Modalities&nbsp;Through&nbsp;Multi-Agent&nbsp;Collaboration},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={James&nbsp;Y.&nbsp;Huang&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tinghui&nbsp;Zhu&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Muhao&nbsp;Chen&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
+    @misc{zhang2025medrlvremergingmedicalreasoning,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;eprint={2511.19417},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;primaryClass={cs.CL},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url={https://arxiv.org/abs/2511.19417},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url={https://doi.org/10.48550/arXiv.2502.19655},<br>
 }<br>
-<br>
 
     </div>
 
@@ -261,7 +261,7 @@ author_profile: true
 
 
 
-- [ERM proteins regulate the shape and number of Endoplasmic Reticulum-Plasma Membrane Junctions in neurons](https://doi.org/10.1101/2025.06.18.660273). Huichao Deng, Jinbo Cheng, Richard D Fetter, **Guanghui Qin**, Jianxiu Zhang, Xing Liang, Caitlin Taylor, Mingjie Zhang, Xiandeng Wu, and Kang Shen. In *bioRxiv*, 2025. <span>[<a href="https://doi.org/10.1101/2025.06.18.660273">paper</a>] [<a href="https://doi.org/10.1101/2025.06.18.660273">biorxiv</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
+- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -271,27 +271,6 @@ author_profile: true
 
 
 <div id="8bib" style="display: none" class="bib">
-    @misc{deng25frm4,<br>
-&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
-&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.1101/2025.06.18.660273},<br>
-&nbsp;&nbsp;author&nbsp;=&nbsp;{Deng,&nbsp;Huichao&nbsp;and&nbsp;Cheng,&nbsp;Jinbo&nbsp;and&nbsp;Fetter,&nbsp;Richard&nbsp;D.&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Zhang,&nbsp;Jianxiu&nbsp;and&nbsp;Liang,&nbsp;Xing&nbsp;and&nbsp;Taylor,&nbsp;Caitlin&nbsp;and&nbsp;Zhang,&nbsp;Mingjie&nbsp;and&nbsp;Wu,&nbsp;Xiandeng&nbsp;and&nbsp;Shen,&nbsp;Kang},<br>
-&nbsp;&nbsp;title&nbsp;=&nbsp;{ERM&nbsp;proteins&nbsp;regulate&nbsp;the&nbsp;shape&nbsp;and&nbsp;number&nbsp;of&nbsp;Endoplasmic&nbsp;Reticulum–Plasma&nbsp;Membrane&nbsp;Junctions&nbsp;in&nbsp;neurons}<br>
-}<br>
-
-    </div>
-
-
-
-- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="9bib" style="display: none" class="bib">
     @misc{gu2025illusionreadinessstresstesting,<br>
 &nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
 &nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
@@ -302,6 +281,27 @@ author_profile: true
 &nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
 }<br>
 <br>
+
+    </div>
+
+
+
+- [ERM proteins regulate the shape and number of Endoplasmic Reticulum-Plasma Membrane Junctions in neurons](https://doi.org/10.1101/2025.06.18.660273). Huichao Deng, Jinbo Cheng, Richard D Fetter, **Guanghui Qin**, Jianxiu Zhang, Xing Liang, Caitlin Taylor, Mingjie Zhang, Xiandeng Wu, and Kang Shen. In *bioRxiv*, 2025. <span>[<a href="https://doi.org/10.1101/2025.06.18.660273">paper</a>] [<a href="https://doi.org/10.1101/2025.06.18.660273">biorxiv</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
+
+
+
+
+
+
+
+<div id="9bib" style="display: none" class="bib">
+    @misc{deng25frm4,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.1101/2025.06.18.660273},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Deng,&nbsp;Huichao&nbsp;and&nbsp;Cheng,&nbsp;Jinbo&nbsp;and&nbsp;Fetter,&nbsp;Richard&nbsp;D.&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Zhang,&nbsp;Jianxiu&nbsp;and&nbsp;Liang,&nbsp;Xing&nbsp;and&nbsp;Taylor,&nbsp;Caitlin&nbsp;and&nbsp;Zhang,&nbsp;Mingjie&nbsp;and&nbsp;Wu,&nbsp;Xiandeng&nbsp;and&nbsp;Shen,&nbsp;Kang},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{ERM&nbsp;proteins&nbsp;regulate&nbsp;the&nbsp;shape&nbsp;and&nbsp;number&nbsp;of&nbsp;Endoplasmic&nbsp;Reticulum–Plasma&nbsp;Membrane&nbsp;Junctions&nbsp;in&nbsp;neurons}<br>
+}<br>
 
     </div>
 
@@ -355,7 +355,7 @@ author_profile: true
 
 
 
-- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="https://twitter.com/hiaoxui/status/1711858430510502369">twitter</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
+- [Dodo: Dynamic Contextual Compression for Decoder-only LMs](https://doi.org/10.18653/v1/2024.acl-long.536). **Guanghui Qin**, Corby Rosset, Ethan C Chau, Nikhil Rao, and Benjamin Van Durme. In *Annual Meeting of the Association for Computational Linguistics (ACL, oral)*, 2024. <span>[<a href="https://doi.org/10.18653/v1/2024.acl-long.536">paper</a>] [<a href="javascript:toggleDiv('12bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 

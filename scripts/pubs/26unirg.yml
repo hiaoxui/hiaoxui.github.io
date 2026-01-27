@@ -18,6 +18,9 @@ authors:
 venue: "arXiv"
 year: 2026
 url: "https://doi.org/10.48550/arXiv.2601.17151"
+links:
+  blog: https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/
+  twitter: https://x.com/MSFTResearch/status/2016194490571051113
 bib: |+2
   @misc{liu2026scalingmedicalimagingreport,
     title={Scaling medical imaging report generation with multimodal reinforcement learning},
