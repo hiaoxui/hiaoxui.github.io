@@ -18,7 +18,7 @@ Microsoft Semantic Machines (mentored by [Anthony Platanios](https://platanios.o
 and Microsoft Research Asia (mentored by [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/)).
 I was a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://www.hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
-My email address is `hiaoxui` followed by `@gmail.com`.
+My email address is `<last_name>.<first_name>` followed by `@microsoft.com`.
 
 ## My research
 
