@@ -91,7 +91,7 @@ author_profile: true
 
 
 
-- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://doi.org/10.48550/arXiv.2511.23269). Timothy Ossowski\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Reuben Tan, Tristan Naumann, Junjie Hu, and Hoifung Poon. In *CVPR*, 2026. <span>[<a href="https://doi.org/10.48550/arXiv.2511.23269">paper</a>] [<a href="https://huggingface.co/OctoMed/OctoMed-7B">model</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
+- [OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://doi.org/10.48550/arXiv.2511.23269). Timothy Ossowski\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Reuben Tan, Tristan Naumann, Junjie Hu, and Hoifung Poon. In *Conference on Computer Vision and Pattern Recognition (CVPR)*, 2026. <span>[<a href="https://doi.org/10.48550/arXiv.2511.23269">paper</a>] [<a href="https://huggingface.co/OctoMed/OctoMed-7B">model</a>] [<a href="javascript:toggleDiv('1bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 

@@ -75,6 +75,7 @@ div_id = 0
 
 
 venues = {
+    'CVPR': 'Conference on Computer Vision and Pattern Recognition',
     'EACL': 'Annual Conference of the European Chapter of the Association for Computational Linguistics',
     'ICML': 'International Conference on Machine Learning',
     'EMNLP': 'Empirical Methods in Natural Language Processing',
