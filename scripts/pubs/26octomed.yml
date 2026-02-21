@@ -10,8 +10,8 @@ authors:
   - Tristan Naumann
   - Junjie Hu
   - Hoifung Poon
-venue: "arXiv"
-year: 2025
+venue: "CVPR"
+year: 2026
 url: "https://doi.org/10.48550/arXiv.2511.23269"
 bib: |+2
   @misc{ossowski2025octomeddatarecipesstateoftheart,
