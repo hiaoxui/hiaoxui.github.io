@@ -25,4 +25,5 @@ bib: |+2
   }
 links:
   model: https://huggingface.co/OctoMed/OctoMed-7B
+  blog: https://valiant-helmet-a30.notion.site/OctoMed-Data-Recipes-for-State-of-the-art-Multimodal-Medical-Reasoning-2b21be22fc9580d6bcc0e418905eb3f6
 
