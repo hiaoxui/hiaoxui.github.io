@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 My name is Guanghui Qin.
-I work at the Health Futures team at Microsoft Research, Redmond. 
+I work as a researcher at Microsoft Research, Redmond. 
 My research focuses on multimodal machine learning for clinical diagnosis and precision health.
 
 I obtained my Ph.D. in 2024 from Johns Hopkins University in natural language processing, advised by Professor [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
