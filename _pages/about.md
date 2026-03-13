@@ -12,7 +12,7 @@ I work as a researcher at Microsoft Research, Redmond.
 My research focuses on multimodal machine learning for clinical diagnosis and precision health.
 
 I obtained my Ph.D. in 2024 from Johns Hopkins University in natural language processing, advised by Professor [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
-I used to work as a research intern at Microsoft, mentored by Chin-Yew Lin and Jin-Ge Yao in 2017, by [Anthony Platanios](https://platanios.org/) in 2022, and by [Corby Rosset](https://www.microsoft.com/en-us/research/people/corbyrosset/)) in 2023.
+I used to work as a research intern at Microsoft, mentored by Chin-Yew Lin and Jin-Ge Yao in 2017, by [Anthony Platanios](https://platanios.org/) in 2022, and by [Corby Rosset](https://www.microsoft.com/en-us/research/people/corbyrosset/) in 2023.
 I was a visiting student at Johns Hopkins University in 2018, mentored by [Hongyuan Mei](https://www.hongyuanmei.com/) and [Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
 My email address is `<last_name>.<first_name>` followed by `@microsoft.com`.
