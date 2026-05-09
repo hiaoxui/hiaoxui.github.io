@@ -24,12 +24,6 @@ Most recently, I work on oncological diagnosis with multimodal machine learning.
 
 In the past, I worked on efficient language modeling (thesis topic), information extraction, prompting, time-series analysis, and grounded language acquisition.
 
-## Walless
-
-I am also known as *hiaoxui*, the founder of [WallessPKU](https://wallesspku.org/en/).
-Walless is a platform that helps students from more than 100 institutions to circumvent [the Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall).
-For the past 10 years, I have been developing and funding this non-profit project that benefits tens of thousands of people to access the internet without censorship.
-
 ## My name
 
 My name is 秦光辉 in Chinese.
