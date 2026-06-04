@@ -12,16 +12,14 @@ authors:
   - Hoifung Poon
 venue: "CVPR"
 year: 2026
-url: "https://doi.org/10.48550/arXiv.2511.23269"
+url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Ossowski_OctoMed_Data_Recipes_for_State-of-the-Art_Multimodal_Medical_Reasoning_CVPR_2026_paper.pdf"
 bib: |+2
-  @misc{ossowski2025octomeddatarecipesstateoftheart,
-      title={OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning},
-      author={Timothy Ossowski and Sheng Zhang and Qianchu Liu and Guanghui Qin and Reuben Tan and Tristan Naumann and Junjie Hu and Hoifung Poon},
-      year={2025},
-      eprint={2511.23269},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2511.23269},
+  @inproceedings{octomed26,
+    year = {2026},
+    url = {https://openaccess.thecvf.com/content/CVPR2026/papers/Ossowski_OctoMed_Data_Recipes_for_State-of-the-Art_Multimodal_Medical_Reasoning_CVPR_2026_paper.pdf},
+    author = {Ossowski, Timothy and Zhang, Sheng and Liu, Qianchu and Qin, Guanghui and Tan, Reuben and Naumann, Tristan and Hu, Junjie and Poon, Hoifung},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    title = {{{OctoMed}}: {{Data Recipes}} for {{State-of-the-Art Multimodal Medical Reasoning}}}
   }
 links:
   model: https://huggingface.co/OctoMed/OctoMed-7B

@@ -1,0 +1,27 @@
+title: "Masked-Diffusion Autoencoders for 3D Medical Vision Representation Learning"
+show: false
+priority: 5
+authors:
+  - Jiachen Tu*
+  - Guanghui Qin*
+  - Theodore Zhengde Zhao
+  - Reuben Tan
+  - Jeya Maria Jose Valanarasu
+  - Sheng Zhang
+  - Tristan Naumann
+  - Fan Lam
+  - Sheng Wang
+  - Hoifung Poon
+venue: "CVPR"
+year: 2026
+url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Tu_Masked-Diffusion_Autoencoders_for_3D_Medical_Vision_Representation_Learning_CVPR_2026_paper.pdf"
+bib: |+2
+  @inproceedings{mdae26,
+    year = {2026},
+    url = {https://openaccess.thecvf.com/content/CVPR2026/papers/Tu_Masked-Diffusion_Autoencoders_for_3D_Medical_Vision_Representation_Learning_CVPR_2026_paper.pdf},
+    author = {Tu, Jiachen and Qin, Guanghui and Zhao, Theodore Zhengde and Valanarasu, Jeya Maria Jose and Zhang, Sheng and Naumann, Tristan and Lam, Fan and Wang, Sheng and Poon, Hoifung},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    title = {Masked-{{Diffusion Autoencoders}} for {{3D Medical Vision Representation Learning}}}
+  }
+# links:
+
