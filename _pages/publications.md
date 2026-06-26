@@ -135,7 +135,7 @@ author_profile: true
 
 
 
-- [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Tristan Naumann, Javier Alvarez-Valle, Jiang Bian, Mu Wei, Khalil Malik, Lidong Zhou, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Doug Burger, Eric Topol, Hoifung Poon, and Paul Vozila. In *Nature Medicine*, 2026. <span>[<a href="https://doi.org/10.1038/s41591-026-04501-8">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+- [Evaluating the robustness and readiness of large frontier models in health AI applications](https://doi.org/10.1038/s41591-026-04501-8). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Tristan Naumann, Javier Alvarez-Valle, Jiang Bian, Mu Wei, Khalil Malik, Lidong Zhou, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Doug Burger, Eric Topol, Hoifung Poon, and Paul Vozila. In *Nature Medicine*, 2026. <span>[<a href="https://doi.org/10.1038/s41591-026-04501-8">paper</a>] [<a href="https://doi.org/10.48550/arXiv.2509.18234">arXiv</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -157,7 +157,7 @@ author_profile: true
 
 
 
-- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">bioRxiv</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
 {: .publication .selected}
 
 

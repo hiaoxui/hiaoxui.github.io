@@ -45,5 +45,5 @@ bib: |+2
     journal = {Nature Medicine},
     title = {Evaluating the Robustness and Readiness of Large Frontier Models in Health {{AI}} Applications}
   }
-link:
+links:
   arXiv: https://doi.org/10.48550/arXiv.2509.18234
