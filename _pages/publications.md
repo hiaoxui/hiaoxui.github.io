@@ -135,8 +135,8 @@ author_profile: true
 
 
 
-- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
-{: .publication .selected}
+- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.1038/s41591-026-04501-8). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Tristan Naumann, Javier Alvarez-Valle, Jiang Bian, Mu Wei, Khalil Malik, Lidong Zhou, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Doug Burger, Eric Topol, Hoifung Poon, and Paul Vozila. In *Nature Medicine*, 2026. <span>[<a href="https://doi.org/10.1038/s41591-026-04501-8">paper</a>] [<a href="javascript:toggleDiv('3bib')">bibtex</a>]</span>
+{: .publication data-selected="false"}
 
 
 
@@ -145,6 +145,28 @@ author_profile: true
 
 
 <div id="3bib" style="display: none" class="bib">
+    @article{illusion26,<br>
+&nbsp;&nbsp;year&nbsp;=&nbsp;{2026},<br>
+&nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.1038/s41591-026-04501-8},<br>
+&nbsp;&nbsp;author&nbsp;=&nbsp;{Gu,&nbsp;Yu&nbsp;and&nbsp;Fu,&nbsp;Jingjing&nbsp;and&nbsp;Liu,&nbsp;Xiaodong&nbsp;and&nbsp;Valanarasu,&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;and&nbsp;Codella,&nbsp;Noel&nbsp;C.&nbsp;F.&nbsp;and&nbsp;Tan,&nbsp;Reuben&nbsp;and&nbsp;Liu,&nbsp;Qianchu&nbsp;and&nbsp;Jin,&nbsp;Ying&nbsp;and&nbsp;Zhang,&nbsp;Sheng&nbsp;and&nbsp;Wang,&nbsp;Jinyu&nbsp;and&nbsp;Wang,&nbsp;Rui&nbsp;and&nbsp;Song,&nbsp;Lei&nbsp;and&nbsp;Qin,&nbsp;Guanghui&nbsp;and&nbsp;Usuyama,&nbsp;Naoto&nbsp;and&nbsp;Wong,&nbsp;Cliff&nbsp;and&nbsp;Cheng,&nbsp;Hao&nbsp;and&nbsp;Lee,&nbsp;HoHin&nbsp;and&nbsp;Sanapathi,&nbsp;Praneeth&nbsp;and&nbsp;Hilado,&nbsp;Sarah&nbsp;and&nbsp;Naumann,&nbsp;Tristan&nbsp;and&nbsp;Alvarez-Valle,&nbsp;Javier&nbsp;and&nbsp;Bian,&nbsp;Jiang&nbsp;and&nbsp;Wei,&nbsp;Mu&nbsp;and&nbsp;Malik,&nbsp;Khalil&nbsp;and&nbsp;Zhou,&nbsp;Lidong&nbsp;and&nbsp;Gao,&nbsp;Jianfeng&nbsp;and&nbsp;Horvitz,&nbsp;Eric&nbsp;and&nbsp;Lungren,&nbsp;Matthew&nbsp;P.&nbsp;and&nbsp;Burger,&nbsp;Doug&nbsp;and&nbsp;Topol,&nbsp;Eric&nbsp;and&nbsp;Poon,&nbsp;Hoifung&nbsp;and&nbsp;Vozila,&nbsp;Paul},<br>
+&nbsp;&nbsp;journal&nbsp;=&nbsp;{Nature&nbsp;Medicine},<br>
+&nbsp;&nbsp;title&nbsp;=&nbsp;{Evaluating&nbsp;the&nbsp;Robustness&nbsp;and&nbsp;Readiness&nbsp;of&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;in&nbsp;Health&nbsp;{{AI}}&nbsp;Applications}<br>
+}<br>
+
+    </div>
+
+
+
+- [Ras-mediated dynamic and biphasic regulation of cell migration](https://doi.org/10.1073/pnas.2503847122). Yiyan Lin, Eleana Parajón, Qinling Yuan, Siyu Ye, **Guanghui Qin**, Yu Deng, Jane Borleis, Ariel Koyfman, Pablo A Iglesias, Konstantinos Konstantopoulos, Douglas N Robinson, and Peter N Devreotes. In *Proceedings of the National Academy of Sciences of the United States of America (PNAS)*, 2025. <span>[<a href="https://doi.org/10.1073/pnas.2503847122">paper</a>] [<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638204v1">biorxiv</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+{: .publication .selected}
+
+
+
+
+
+
+
+<div id="4bib" style="display: none" class="bib">
     @article{dynamic25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.1073/pnas.2503847122},<br>
@@ -160,7 +182,7 @@ author_profile: true
 
 
 
-- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('4bib')">bibtex</a>]</span>
+- [Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration](https://doi.org/10.48550/arXiv.2511.19417). James Y. Huang\*, Sheng Zhang\*, Qianchu Liu, **Guanghui Qin**, Tinghui Zhu, Tristan Naumann, Muhao Chen, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2511.19417">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -169,7 +191,7 @@ author_profile: true
 
 
 
-<div id="4bib" style="display: none" class="bib">
+<div id="5bib" style="display: none" class="bib">
     @misc{huang2025eyesextendinglargelanguage,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Be&nbsp;My&nbsp;Eyes:&nbsp;Extending&nbsp;Large&nbsp;Language&nbsp;Models&nbsp;to&nbsp;New&nbsp;Modalities&nbsp;Through&nbsp;Multi-Agent&nbsp;Collaboration},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={James&nbsp;Y.&nbsp;Huang&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tinghui&nbsp;Zhu&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Muhao&nbsp;Chen&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
@@ -185,7 +207,7 @@ author_profile: true
 
 
 
-- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('5bib')">bibtex</a>]</span>
+- [X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains](https://doi.org/10.48550/arXiv.2505.03981). Qianchu Liu\*, Sheng Zhang\*, **Guanghui Qin**\*, Timothy Ossowski, Yu Gu, Ying Jin, Sid Kiblawi, Sam Preston, Mu Wei, Paul Vozila, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2505.03981">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -194,7 +216,7 @@ author_profile: true
 
 
 
-<div id="5bib" style="display: none" class="bib">
+<div id="6bib" style="display: none" class="bib">
     @misc{xreasoner25,<br>
 &nbsp;&nbsp;year&nbsp;=&nbsp;{2025},<br>
 &nbsp;&nbsp;url&nbsp;=&nbsp;{https://doi.org/10.48550/arXiv.2505.03981},<br>
@@ -207,7 +229,7 @@ author_profile: true
 
 
 
-- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('6bib')">bibtex</a>]</span>
+- [Med-RLVR: Emerging Medical Reasoning from a 3B base model via reinforcement Learning](https://doi.org/10.48550/arXiv.2502.19655). Sheng Zhang\*, Qianchu Liu\*, **Guanghui Qin**\*, Tristan Naumann, and Hoifung Poon. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2502.19655">paper</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -216,7 +238,7 @@ author_profile: true
 
 
 
-<div id="6bib" style="display: none" class="bib">
+<div id="7bib" style="display: none" class="bib">
     @misc{zhang2025medrlvremergingmedicalreasoning,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;title={Med-RLVR:&nbsp;Emerging&nbsp;Medical&nbsp;Reasoning&nbsp;from&nbsp;a&nbsp;3B&nbsp;base&nbsp;model&nbsp;via&nbsp;reinforcement&nbsp;Learning},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;author={Sheng&nbsp;Zhang&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Tristan&nbsp;Naumann&nbsp;and&nbsp;Hoifung&nbsp;Poon},<br>
@@ -228,7 +250,7 @@ author_profile: true
 
 
 
-- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('7bib')">bibtex</a>]</span>
+- [CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation](https://doi.org/10.18653/v1/2025.findings-naacl.441). Abe Bohan Hou, Orion Weller, **Guanghui Qin**, Eugene Yang, Dawn Lawrie, Nils Holzenberger, Andrew Blair-Stanek, and Benjamin Van Durme. In *Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL, findings)*, 2025. <span>[<a href="https://doi.org/10.18653/v1/2025.findings-naacl.441">paper</a>] [<a href="https://huggingface.co/datasets/jhu-clsp/CLERC">data</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -237,7 +259,7 @@ author_profile: true
 
 
 
-<div id="7bib" style="display: none" class="bib">
+<div id="8bib" style="display: none" class="bib">
     @inproceedings{hou-etal-2025-clerc,<br>
 &nbsp;&nbsp;title&nbsp;=&nbsp;"{CLERC}:&nbsp;A&nbsp;Dataset&nbsp;for&nbsp;{U}.&nbsp;{S}.&nbsp;Legal&nbsp;Case&nbsp;Retrieval&nbsp;and&nbsp;Retrieval-Augmented&nbsp;Analysis&nbsp;Generation",<br>
 &nbsp;&nbsp;author&nbsp;=&nbsp;"Hou,&nbsp;Abe&nbsp;Bohan&nbsp;&nbsp;and<br>
@@ -258,30 +280,7 @@ author_profile: true
 
 
 
-- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research](https://doi.org/10.1145/3726302.3730275). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.1145/3726302.3730275">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('8bib')">bibtex</a>]</span>
-{: .publication data-selected="false"}
-
-
-
-
-
-
-
-<div id="8bib" style="display: none" class="bib">
-    @inproceedings{rosset2025researchy,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.1145/3726302.3730275"<br>
-}<br>
-<br>
-
-    </div>
-
-
-
-- [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://doi.org/10.48550/arXiv.2509.18234). Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel CF Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, **Guanghui Qin**, Naoto Usuyama, Cliff Wong, Hao Cheng, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Jiang Bian, Javier Alvarez-Valle, Mu Wei, Khalil Malik, Jianfeng Gao, Eric Horvitz, Matthew P Lungren, Hoifung Poon, and Paul Vozila. In *arXiv*, 2025. <span>[<a href="https://doi.org/10.48550/arXiv.2509.18234">paper</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
+- [Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for Deep Research](https://doi.org/10.1145/3726302.3730275). Corby Rosset, Ho-Lam Chung, **Guanghui Qin**, Ehtan Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, and Nikhil Rao. In *ACM SIGIR*, 2025. <span>[<a href="https://doi.org/10.1145/3726302.3730275">paper</a>] [<a href="https://huggingface.co/datasets/corbyrosset/researchy_questions">data</a>] [<a href="javascript:toggleDiv('9bib')">bibtex</a>]</span>
 {: .publication data-selected="false"}
 
 
@@ -291,14 +290,12 @@ author_profile: true
 
 
 <div id="9bib" style="display: none" class="bib">
-    @misc{gu2025illusionreadinessstresstesting,<br>
-&nbsp;&nbsp;title={The&nbsp;Illusion&nbsp;of&nbsp;Readiness:&nbsp;Stress&nbsp;Testing&nbsp;Large&nbsp;Frontier&nbsp;Models&nbsp;on&nbsp;Multimodal&nbsp;Medical&nbsp;Benchmarks},<br>
-&nbsp;&nbsp;author={Yu&nbsp;Gu&nbsp;and&nbsp;Jingjing&nbsp;Fu&nbsp;and&nbsp;Xiaodong&nbsp;Liu&nbsp;and&nbsp;Jeya&nbsp;Maria&nbsp;Jose&nbsp;Valanarasu&nbsp;and&nbsp;Noel&nbsp;CF&nbsp;Codella&nbsp;and&nbsp;Reuben&nbsp;Tan&nbsp;and&nbsp;Qianchu&nbsp;Liu&nbsp;and&nbsp;Ying&nbsp;Jin&nbsp;and&nbsp;Sheng&nbsp;Zhang&nbsp;and&nbsp;Jinyu&nbsp;Wang&nbsp;and&nbsp;Rui&nbsp;Wang&nbsp;and&nbsp;Lei&nbsp;Song&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Naoto&nbsp;Usuyama&nbsp;and&nbsp;Cliff&nbsp;Wong&nbsp;and&nbsp;Hao&nbsp;Cheng&nbsp;and&nbsp;Hohin&nbsp;Lee&nbsp;and&nbsp;Praneeth&nbsp;Sanapathi&nbsp;and&nbsp;Sarah&nbsp;Hilado&nbsp;and&nbsp;Jiang&nbsp;Bian&nbsp;and&nbsp;Javier&nbsp;Alvarez-Valle&nbsp;and&nbsp;Mu&nbsp;Wei&nbsp;and&nbsp;Khalil&nbsp;Malik&nbsp;and&nbsp;Jianfeng&nbsp;Gao&nbsp;and&nbsp;Eric&nbsp;Horvitz&nbsp;and&nbsp;Matthew&nbsp;P&nbsp;Lungren&nbsp;and&nbsp;Hoifung&nbsp;Poon&nbsp;and&nbsp;Paul&nbsp;Vozila},<br>
-&nbsp;&nbsp;year={2025},<br>
-&nbsp;&nbsp;eprint={2509.18234},<br>
-&nbsp;&nbsp;archivePrefix={arXiv},<br>
-&nbsp;&nbsp;primaryClass={cs.AI},<br>
-&nbsp;&nbsp;url={https://arxiv.org/abs/2509.18234},<br>
+    @inproceedings{rosset2025researchy,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;title={Researchy&nbsp;Questions:&nbsp;A&nbsp;Dataset&nbsp;of&nbsp;Multi-Perspective,&nbsp;Decompositional&nbsp;Questions&nbsp;for&nbsp;LLM&nbsp;Web&nbsp;Agents},&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;author={Corby&nbsp;Rosset&nbsp;and&nbsp;Ho-Lam&nbsp;Chung&nbsp;and&nbsp;Guanghui&nbsp;Qin&nbsp;and&nbsp;Ethan&nbsp;C.&nbsp;Chau&nbsp;and&nbsp;Zhuo&nbsp;Feng&nbsp;and&nbsp;Ahmed&nbsp;Awadallah&nbsp;and&nbsp;Jennifer&nbsp;Neville&nbsp;and&nbsp;Nikhil&nbsp;Rao},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;booktitle={SIGIR},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url="https://doi.org/10.1145/3726302.3730275"<br>
 }<br>
 <br>
 

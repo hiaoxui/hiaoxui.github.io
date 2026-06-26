@@ -1,0 +1,49 @@
+title: "The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks"
+show: false
+priority: 10
+authors:
+  - Yu Gu
+  - Jingjing Fu
+  - Xiaodong Liu
+  - Jeya Maria Jose Valanarasu
+  - Noel CF Codella
+  - Reuben Tan
+  - Qianchu Liu
+  - Ying Jin
+  - Sheng Zhang
+  - Jinyu Wang
+  - Rui Wang
+  - Lei Song
+  - Guanghui Qin
+  - Naoto Usuyama
+  - Cliff Wong
+  - Hao Cheng
+  - Hohin Lee
+  - Praneeth Sanapathi
+  - Sarah Hilado
+  - Tristan Naumann
+  - Javier Alvarez-Valle
+  - Jiang Bian
+  - Mu Wei
+  - Khalil Malik
+  - Lidong Zhou
+  - Jianfeng Gao
+  - Eric Horvitz
+  - Matthew P Lungren
+  - Doug Burger
+  - Eric Topol
+  - Hoifung Poon
+  - Paul Vozila
+venue: "Nature Medicine"
+year: 2026
+url: "https://doi.org/10.1038/s41591-026-04501-8"
+bib: |+2
+  @article{illusion26,
+    year = {2026},
+    url = {https://doi.org/10.1038/s41591-026-04501-8},
+    author = {Gu, Yu and Fu, Jingjing and Liu, Xiaodong and Valanarasu, Jeya Maria Jose and Codella, Noel C. F. and Tan, Reuben and Liu, Qianchu and Jin, Ying and Zhang, Sheng and Wang, Jinyu and Wang, Rui and Song, Lei and Qin, Guanghui and Usuyama, Naoto and Wong, Cliff and Cheng, Hao and Lee, HoHin and Sanapathi, Praneeth and Hilado, Sarah and Naumann, Tristan and Alvarez-Valle, Javier and Bian, Jiang and Wei, Mu and Malik, Khalil and Zhou, Lidong and Gao, Jianfeng and Horvitz, Eric and Lungren, Matthew P. and Burger, Doug and Topol, Eric and Poon, Hoifung and Vozila, Paul},
+    journal = {Nature Medicine},
+    title = {Evaluating the Robustness and Readiness of Large Frontier Models in Health {{AI}} Applications}
+  }
+link:
+  bioRxiv: https://doi.org/10.48550/arXiv.2509.18234
