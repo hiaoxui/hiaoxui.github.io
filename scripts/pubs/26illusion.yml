@@ -46,4 +46,4 @@ bib: |+2
     title = {Evaluating the Robustness and Readiness of Large Frontier Models in Health {{AI}} Applications}
   }
 link:
-  bioRxiv: https://doi.org/10.48550/arXiv.2509.18234
+  arXiv: https://doi.org/10.48550/arXiv.2509.18234
