@@ -1,0 +1,36 @@
+# Qianchu Liu, Sheng Zhang, Guanghui Qin, Jeya Maria Jose Valanarasu, Maximilian Rokuss, Mingyu Lu, Timothy Ossowski, Juan Manuel Zambrano Chaves, Cliff Wong, Peniel Argaw, Yashna Hasija, Mu Wei, Wen-wai Yim, Qin Liu, Zilin Jing, Jason Entenmann, Naoto Usuyama, Tristan Naumann, Hoifung Poon
+title: "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents"
+show: true
+priority: 5
+authors:
+  - Qianchu Liu*
+  - Sheng Zhang*
+  - Guanghui Qin*
+  - Jeya Maria Jose Valanarasu
+  - Maximilian Rokuss
+  - Mingyu Lu
+  - Timothy Ossowski
+  - Juan Manuel Zambrano Chaves
+  - Cliff Wong
+  - Peniel Argaw
+  - Yashna Hasija
+  - Mu Wei
+  - Wen-wai Yim
+  - Qin Liu
+  - Zilin Jing
+  - Jason Entenmann
+  - Naoto Usuyama
+  - Tristan Naumann
+  - Hoifung Poon
+venue: "arXiv"
+year: 2026
+url: "https://doi.org/10.48550/ARXIV.2606.31179"
+bib: |+2
+  @misc{healthagentbench26,
+    year = {2026},
+    url = {https://doi.org/10.48550/ARXIV.2606.31179},
+    author = {Liu, Qianchu and Zhang, Sheng and Qin, Guanghui and Valanarasu, Jeya Maria Jose and Rokuss, Maximilian and Lu, Mingyu and Ossowski, Timothy and Zambrano Chaves, Juan Manuel and Wong, Cliff and Argaw, Peniel and Hasija, Yashna and Wei, Mu and Yim, Wen-wai and Liu, Qin and Jing, Zilin and Entenmann, Jason and Usuyama, Naoto and Naumann, Tristan and Poon, Hoifung},
+    title = {HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents}
+  }
+links:
+  website: "https://microsoft.github.io/HealthAgentBench/"
